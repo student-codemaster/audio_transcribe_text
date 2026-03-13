@@ -95,12 +95,21 @@ else:
     with metric_col1:
         st.metric("🎬 Total Segments", len(topics))
     with metric_col2:
+<<<<<<< HEAD
         sentiment_icon = "" if sentiment_score > 0.5 else "😞" if sentiment_score < -0.5 else "😐"
         st.metric(f"{sentiment_icon} Avg Sentiment", f"{sentiment_score:.3f}")
     with metric_col3:
         st.metric(" Duration", f"{index.segments[-1]['end']:.1f}s")
     with metric_col4:
         st.metric(" Word Count", len(transcript.split()))
+=======
+        sentiment_icon = "😊" if sentiment_score > 0.5 else "😞" if sentiment_score < -0.5 else "😐"
+        st.metric(f"{sentiment_icon} Avg Sentiment", f"{sentiment_score:.3f}")
+    with metric_col3:
+        st.metric("⏱️ Duration", f"{index.segments[-1]['end']:.1f}s")
+    with metric_col4:
+        st.metric("📝 Word Count", len(transcript.split()))
+>>>>>>> b992077e4b9ed7fe19a7075f419a172b9aed751e
     
     # provide download options for processed audio & json
     if st.session_state.get("audio_path"):
