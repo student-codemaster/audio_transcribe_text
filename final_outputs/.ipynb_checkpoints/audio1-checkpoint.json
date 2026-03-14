@@ -1,0 +1,342 @@
+{
+  "episode_id": "audio1",
+  "duration": 1800,
+  "segments": [
+    {
+      "segment_id": 1,
+      "start_time": 0.0,
+      "end_time": 188.1,
+      "text": "This is Hacker Public Radio Episode 4566, for 2026-02-02 Today's show is entitled, \"HPR Community News for January 2026\" The host is HPR Volunteers and the duration is 00:55:13 The flag is Explicit, and the license is CC-BY-SA The summary is \"HPR Volunteers talk about shows released and comments posted in January 2026\" Hi everybody, my name is Ken Fallon. I'm here all by myself doing the HPR Community News for January 2026. Everybody's probably all talked out after the New Year show. And thanks to everybody who was involved in putting that show on and who came on to say hi. This is the Community News for January 2026 and HPR is a community podcast where the shows are produced by the community. For the community and by the community. And this is the Community News show which is usually recorded on the Friday before the first Monday of the month. And we record it on a Friday so we have time to process it and send it out. More about that later on in this episode. So first things that we do is welcome our new hosts and I'm thrilled to say we've had two new hosts. Jim DeVore and Carmen LeSyndrette. So let's go through the shows that were aired last month so we can read out some of the comments and give some feedback. The first episode that we had was 4544 and it was on the Thursday the 1st. Uncommon Commands Episode 2 by Delta Ray. Some of the commands here were MTR, SCROT and ZLESS for example. MTR is one I'd come across before, haven't used it as much, prompted me to do so for tracing routes on the network. So it's a network scanner. Then we have SCROT which is a minimal command line screen capturing application. Something that I will be definitely using and something I use all the time is ZLESS. So fantastic tools, links in the shows there. And there were no comments on that episode. The next episode was from the Reserve Queue and it was YouTube Submissions Part 12. And no surprises here for us. There was no comments either but NASA, SCIENCE and the Beatles featured heavily in this one. I am enjoying these subscriptions. Then we had the Community News show itself and we had some feedback on that from Archer72. Nuclear Reactor series, hi all, a show with Whiskeyjack as Homer Simpson and on the Beer Garden series would be interesting I'm sure.",
+      "keywords": [
+        "podcast shows",
+        "community podcast",
+        "radio episode",
+        "podcast",
+        "community news",
+        "hpr community"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -0.98
+    },
+    {
+      "segment_id": 2,
+      "start_time": 188.1,
+      "end_time": 215.55,
+      "text": "Cheers, clink, says Archer. Henry Cameron says Linux, nice Community News as usual, thanks for this one. Kevi says that to encourage someone to migrate to the Linux desktop, it's best to start to use software available on Linux already when on the other desktops. Then the hurdle to step over to the Linux OS will be relatively low. Good advice.",
+      "keywords": [
+        "linux desktop",
+        "linux desktops",
+        "linux os",
+        "linux",
+        "migrate linux",
+        "available linux"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -0.993
+    },
+    {
+      "segment_id": 3,
+      "start_time": 215.55,
+      "end_time": 384.75,
+      "text": "Absolutely. That is correct. Then we had part six of the cheap yellow display project, the speed and timing of Morse. And this is one where Trey is making a Morse practice tool from a cheap yellow display. And this is a fantastic explanation to the timing of Morse, which has always confused me. Absolute must episode for listening and why Paris, the word Paris appears so often in the timings. Great episode there. Makes me pity I can't put it into the Ham Radio series as well, as it's got its own series now. YouTube subscriptions part 13, another of Ahooka's emergency shows, coming from the reserve queue. Civilisations, Space again, some history stuff and more about the Beatles. Quite a good episode. There we have it. The following day, just checking to make sure there are no comments on that, and there were none. This one, there were also no comments on deprecated Promodoro task tool. So this was a little timer script that Kendi Kinator sent in, telling himself to take a break and when the break was over. Nice use of loops and stuff in there. It's interesting to see other people's way of formatting episodes. So Civilisation part 7 of Civilisation 5 by Ahooka was on the next day, Computer Strategy Games. In this case, he was chasing down a science victory. And it's nice to see him walk through this. Fantastic explanations. And the show notes are very detailed, taken from his blog. There was one comment in the following episode, Elisabeth, Elisabeth, sorry, in IT since 97 part 2, where Lee and Elisabeth talk about their experience as a woman in IT. There was one comment by operator, white male. Not that anybody cares about the angle of a white male, but I did an episode on some of the stuff. Let me know if I can help in any way. Anyway, I was thinking about this episode today, actually. It's one of these impactful episodes on how lucky I was to have a career where there was a nice balance of male and females. It gives a completely different picture when you're working in a male-only environment. So, the following day, we had Printer Conspiracy by Mr. X.",
+      "keywords": [
+        "timing morse",
+        "episodes civilisation",
+        "formatting episodes",
+        "making morse",
+        "episode listening",
+        "impactful episodes"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": 0.984
+    },
+    {
+      "segment_id": 4,
+      "start_time": 384.75,
+      "end_time": 416.7,
+      "text": "Is it possible that there is an Epson Print Driver Conspiracy? And KandikaNature7 says, From what I've heard online, printers infamously have tons of issue with wasting link and forcing vendor lock-in. So, I would not be surprised if the official drivers do intentionally destroy output to force you to on the upgrade thread mill. The next one was from Whiskeyjack Nuclear Reactors Part 4 The Less Common Types of Reactors.",
+      "keywords": [
+        "epson print",
+        "possible epson",
+        "epson",
+        "printers infamously",
+        "printers",
+        "print driver"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -1.0
+    },
+    {
+      "segment_id": 5,
+      "start_time": 416.7,
+      "end_time": 517.5,
+      "text": "And this series is gaining a lot of traction also on the Mastodons and in other locations. And it was great to hear an explanation of some words that you hear going past, give you a little bit more depth into the type of reactors and how they work. Jim DeVore sent in an episode on how he manages his personal to-do lists. Daytimers, Palm Pilot, Ginger Trevani's to-do list, etc, etc, etc. Links in the show notes. Brian in Ohio says, Welcome. Great show. I'll have to try it out. And KandikaNature says, Good first show. I think this is really a good first show. And the way you covered it was pretty cool. I used Task Warrior from mine, which I covered in another episode. Then we had, slightly late, Belgian Christmas Ales from the Beer Garden 8. And it was interesting how the Belgian beer actually originated in Scotland. But I won't ruin it too much. I would advise you to go listen to the show. Even if you're not a huge big alcohol drinking fan. I think the history around the beers is one of the things I enjoy the most about this. There was one comment from Carl Duttec. Christmas Ale. In the States, several breweries have Christmas Ales. My favourite is Old Fizzwig Ale. Not very spicy. Malty.",
+      "keywords": [
+        "history beers",
+        "belgian beer",
+        "beers things",
+        "beers",
+        "breweries christmas",
+        "beer garden"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": 0.999
+    },
+    {
+      "segment_id": 6,
+      "start_time": 517.5,
+      "end_time": 567.0,
+      "text": "Has a chewy quality. Thanks for the show. Then we had Nitro Man. RC cars. Where Operator talks about Nitro RC cars. And there was a comment on Mastodon. I think it was from Kevi or somebody. Where they said that I'm glad I got the background on this. Because it's so expensive. I'm glad I don't get into it. But one of these episodes where I really got pulled in by what he was doing. So much so that I had to turn it off for a while. Because I was making something in the shed. And then I had to turn it back on again. So great episode.",
+      "keywords": [
+        "mastodon",
+        "mastodon think",
+        "nitro rc",
+        "chewy quality",
+        "nitro man",
+        "nitro"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -0.998
+    },
+    {
+      "segment_id": 7,
+      "start_time": 567.0,
+      "end_time": 640.35,
+      "text": "Well done, Operator. So from down under. Or a little left of down under. We have Tlaatu with Why I Prefer Tar to Zip. And this is basically a rundown of why Tlaatu prefers Tar to Zip. Tar being a Swiss Army knife. And Zip being a one trick pony. Candy Canater says. Interesting experiment. I never realised that Tar compressed files are better at compressing than Zip files. In my humble opinion it's more a mentality thing. Like Tar is literally just a series of files stitched together with some headers. Meaning it makes a lot more sense to apply a single file compressor to it. Than something that is already applying some level of compression. There's also a bit of a compatibility issue. Since most non-technical users don't know what a Tar file is. Or even what a Zip file is. So Zip is the lowest common denominator. On that note. I think looking at 7-Zip would be an interesting experiment.",
+      "keywords": [
+        "tar zip",
+        "tar compressed",
+        "zip tar",
+        "compressing zip",
+        "zip files",
+        "compressed files"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -0.995
+    },
+    {
+      "segment_id": 8,
+      "start_time": 640.35,
+      "end_time": 725.85,
+      "text": "Which is newer and more well known. And from the reserve queue we had YouTube subscriptions part 14. And this is from Ahuka. Some history stuff here. Many of which I am following. The Great War. And we also had some science. And of course some Beatles in there as well. I chucked in a show here that I'd just decided to do because it was a free slot. And it was about some offline translator tools that you can use without having to go online. And Claudio M says. Just what I needed. Looks like you uploaded this episode the day after I was looking for a solution like this. Thank you for the episode. I gave Local Translate a go. Though I would prefer something that I could install outside of a flat pack. And would run on the BSDs as well. NMW says. Great recommendation. I was chatting on Mastodon and was directed to this episode. Great one. I have downloaded and tried out the Android app. And it works as you described. They all have all the big glamwages I would need and want. Just brilliant.",
+      "keywords": [
+        "android",
+        "offline translator",
+        "tried android",
+        "android app",
+        "translator tools",
+        "great downloaded"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": 0.817
+    },
+    {
+      "segment_id": 9,
+      "start_time": 725.85,
+      "end_time": 872.1,
+      "text": "Thanks for this episode. The following day we had. Ahuka with Arcee Clark's other works. Some of which I had never heard of. And weren't familiar with. A Time Odyssey. And Tales from Whiteheart. Joseph Jorkins. Etc. Etc. Etc. Links in the show notes. And full details in the show notes as well. I know people are also enjoying these. Seeing them on the Mastodon comments as well. Then we had the first show by Carmen. Welcome Carmen. Thank you very much for sending in this episode. And this sounds like a fantastic little project. Mission Libra. Getting 14. 11 to 14 year olds involved in free software. Always kind of a difficult age. And there's a new Libra PDF. Links in the show notes. Very well done. Very cool looking. You can just print it out. And you're ready to rock. So have a look at that. Henry Cameron says happy to learn about the project. First welcome as a host here on HPR. And interesting and encouraging to learn and hear about more. More about Mission Libra. Which is new to me. Best wishes to you and your mission. Candy Canater says. Cool project. This seems like a promising project. I think you explained it well. Despite it being your first episodes. Best of luck. Then we had another episode from Clat2. Making the valid point. That software development doesn't end until it's packaged. Creating installable packages for your application. Is a great quality assurance step. So it actually brings out quite a lot of points. There were no comments on this episode. Checking for consistency. Looking for dependencies and stuff. So it's basically a free quality control step that you can get. Following day we had fast reactors. Again from Whiskeyjack. And this time we were talking about fast versus slow neutrons. Burners versus feeders. Etc etc. NMW says. Great series. I'm enjoying and looking forward to the rest of the series.",
+      "keywords": [
+        "mission libra",
+        "libra new",
+        "new libra",
+        "libra pdf",
+        "project mission",
+        "libra getting"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": 1.0
+    },
+    {
+      "segment_id": 10,
+      "start_time": 872.1,
+      "end_time": 1024.2,
+      "text": "Do you think the US will ever wake up and start recycling its spent fuel? It seems like a huge waste just to try and keep a small amount of fuel away from the bad guys. Or whatever they're imagining. And then we had a response from Whiskeyjack himself saying. Spent fuel from civil nuclear power plants is not suitable for making nuclear weapons. As it has the wrong proportions of plutonium isotopes. Plutonium comes in isotopes just like virtually all other heavy elements. And weapons requires a high percentage of one specific isotope. Which you don't get from spent civil fuel. Weapons grade plutonium is made in military reactors which are designed for that purpose. And the fuel is rapidly cycled through to minimize the buildup of undesired, for nuclear purposes, isotopes. As such, there is no direct connection between recycling commercial fuel, I covered a number of different recycling techniques in one episode, and nuclear weapons. I don't live in the US, but is there a public perception that there is such a connection? Then it is likely this is a result of misconception about the nature of the different isotopes of plutonium. The main reason that most countries don't bother with recycling spent fuel is that once through the fuel cycle is cheaper. Most countries that do recycle fuel do so mainly for the reasons of national security of energy supply. They simply wish to minimize the uranium imports by reusing fuels they already have. The secondary reason is to reduce the amount of high level waste that must be stored by burning up the fissile isotopes of plutonium in a reactor. Much of the long-lived part of nuclear waste is simply fissile isotopes of plutonium which can be reused in the reactor as fuel. If enough people have questions on this series, including topics that I have not covered, post them as comments on the HBR, and I will be willing to do a follow-up episode covering those after the end of this series.",
+      "keywords": [
+        "nuclear waste",
+        "recycling spent",
+        "recycle fuel",
+        "recycling techniques",
+        "recycling",
+        "different recycling"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -1.0
+    },
+    {
+      "segment_id": 11,
+      "start_time": 1024.2,
+      "end_time": 1079.55,
+      "text": "Well, you heard that there, folks. You know what to do. Put your comments over here, and then we'll get even more episodes. We had another episode by Archer72 about MKV and a proprietary application to burn Blu-rays, and it didn't work. So he had to jump through a few loops to get it working here on how to download an older version. And then, we have episode, let me just check, were there any comments? In other words, no comments on the Make MKV episode. On the Barley Wine episode, which is the last episode of the month, Dave and Kevi talked about Barley Wines, and as luck would have it, I actually happened to have a bottle myself about Barley Wines.",
+      "keywords": [
+        "wine episode",
+        "barley wines",
+        "barley wine",
+        "mkv episode",
+        "episode barley",
+        "wines"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -1.0
+    },
+    {
+      "segment_id": 12,
+      "start_time": 1079.55,
+      "end_time": 1125.9,
+      "text": "And it was interesting, again, I keep saying it, about the history of the different types of beers, and how relatively new some of this stuff is in the swing of things. So, as luck would have it, I happened to have a Barley Wine in the fridge, and yeah, I could take it or leave it, to be honest with you. Mostly, I would probably leave it. That would be my summary of Barley Wines. But, as Dave says, it's about the experience of doing it, going through it, the taste, and the experience, rather than liking it. So, nice one there.",
+      "keywords": [
+        "barley wine",
+        "barley wines",
+        "summary barley",
+        "wine fridge",
+        "barley",
+        "wine"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -0.975
+    },
+    {
+      "segment_id": 13,
+      "start_time": 1125.9,
+      "end_time": 1878.75,
+      "text": "So, that was all the shows. We moseyed through them pretty quick. Then we have some of the comments for previous episodes. And the first one was on one I made, on why I made a one-episode podcast about a war story. And there were a few spam comments on this one. So much so that I almost, almost improved them, but I didn't. So, well done to the person who did that, and I've now been thinking of a few more ways to stop spammers getting through. So, well done you. And as I said before, if any spammers want to record an episode, feel free to do so. Then we had a comment on how I use Newsboat for podcasts and Reddit by Archer72. This was back in July 2017. And that was the link to the bug that I opened last month about HPR not having the download format. Archer72 replies back saying, for short-term use, use download format filename and forces an MP3 file at the end using Newsboat and gives the configuration file in there. This one turns out to be quite a complicated little issue, actually. And I'll just open the bug real quick. Some podcast aggregators show cdn.php as the filename. Now, you can try using content disposition as a header, which we've tried, and that doesn't work. The reason that doesn't work is because the underlying libraries need to support it. And I realized during this week, because I'm following curl and masternull, that the content distribution header has just been added to curl now and needs to be rolled out. So our options are we can use Apache to redirect traffic, Apache redirect. Now, the issue with that, though, is that then all the traffic will be routed through AnonymousTools.com servers, completely defeating the purpose of what we're trying to do here. What we're trying to do is spread the load so that if we have distributed community content delivery network, say we have 10 different servers around the world, we don't have that. But if you do have a server, say you've got a, in my case, I've got a fiber connection with a gigabit Ethernet fiber connection. And on top of that, connected to that, I've got a small, low-powered PC with a 4TB hard disk. And I can serve all the files from there using just Apache, straight Apache files, or Nginx or some other server. It doesn't really matter. But if we want to, say, redirect traffic all over to different hosts on the Internet, then we don't want it going back through the central node because we don't want all the bandwidth costs coming on AnonymousHost.com. The majority of the bandwidth costs are from the media, as you can imagine. So what we could do is, and I was talking to some of the guys at work and the platform and the content distribution team as well. And so it's a bit of a puzzle because it's not normally what they come across. So the other option will be to change the feeds in the RSS so that it gets a full feed to the server in my house. And then the next one will be to the server in the U.S. And the next one will be to the Internet Archive. The thing is, if you do that round-robin, you need to maintain a sort of a hash of the people's IP addresses. And if you do that round-robin and somebody's IP address changes, which happens all the time, then you would end up re-downloading the episodes. So that's not ideal either. So the best way to do it would be to have a DNS entry. And just straight entry like hub ccdn.hackerpublicradio.org for sashing the path to the file. And that lookup would go to my server, and the next time it would be Rhone's server, and the next time it would be US server. But the only way that that can work is if all the files are everywhere, and that the path is consistent everywhere as well. So we have a bit of work to do there because some of the hosts only host the MP3 files and not the FLAC and the WAV files. And also the Internet Archive, which we're slowly migrating from, has a different file naming structure than what we're using. So that was that. That was a bit of a puzzle. But if we get enough people contributing nodes to the content distribution network, say four nodes, I need an additional two or three nodes, then we could do that. We would have enough redundancy that we could host everything everywhere and then just redirect people to those hosts, and that would fix that problem. Otherwise, it's like podcatcher by podcatcher that you need to fix the file name extension, so it's not linked to us. Okay, that's a huge, big, huge, big detour there. I also put a comment in to Trey's episode on GPL-loaded displays, and I remember when I heard this that I was a bit disappointed that there was no free Libra open source graphic display thing. And so I say, possible graphics library, having done zero research, I submit a link I got from Hackaday. Roo display is a feature-rich, easy-to-use library intended for building smart home and similar controllers with graphical UI and optionally touch controls, with a link to the Hackaday link and a link to the GitHub where you can get Roo display, which is D-E-J-W-K, Delta Echo, Juliet, Whiskey, Kilo, Roo display. So that was that. And welcome to the Linux community by Delta Ray. Archer74 says, re-talk by command line magic. Hey, Moorhook, quite a variety of subjects that would sound great on a recording or three. Cheers, Archer72. This is, Moorhook did a comment there about other tools like Gemini, CLI and Cloud Code, etc. So asking for episodes as he should. Kevin O'Brien, giving some feedback to Reactor Basics episode three, saying, really enjoying this episode and saying, I find I'm looking forward to each installment of this series. Well done. So that was it. Let's mosey over to the mail list and have a look for the thread in this month. So we have a comment from Vance and it says, Hi there, I'm new to HPR and have been inspired by the presentation Murph gave at OLF conference a few months ago about contributing. I started listening to some episodes and get to get the feel of things before trying to record myself. I noticed that there seems to be an inconsistency in how licensing is presented. The website is very clear that the Creative Commons attribute to share alike international licenses default and metadata in the audio I downloaded. It likewise references CC by SA. Discussions in HPR episode 4538 about the outro also states the license is CC by SA. However, the actual outro voiceover instead states that the license is Creative Commons Attribution International, aka CC by, lacking the share-like requirement, which is a different license. Is this intentional or an oversight? From an outsider's perspective, it seems like the latter, but perhaps there's a reason. I know licensing isn't a fun topic and I'm sorry, I'm the one starting this conversation. To which I reply, Hi Vance, welcome. Sad to hear, sad to say that you're wrong. Licensing is a fun topic and a very important one. Our approach is detailed here on a link to the branding page. Also sad to say that you're right, there is a bug in the outro. Well spotted. I opened an issue on it, issue two. I contacted our voiceover department and will record it at the first opportunity. Thanks for the link to Murph's video from OLF. Amazing, this is not a HPR episode. Fantastic to get the experience from somebody else using the site. Food for thought on how to improve it there. To answer the question about transcriptions, this was not in the comments, this was in the video. If you upload an SRT file with the same name as your show, we will automatically use that. For example, if your episode is Murph underscore talk underscore at underscore olf dot flack, then you would run whisper space and the Murph underscore talk dot flack space dash dash language space English space dash dash output underscore format space SRT. And that will produce an SRT file and then you can upload that with the script and we'll just use it automatically. So that's what's that. And then I respond back saying we have a new outro recorded and ready for the next episode. See what I did there. And Vance replies, Thanks so much for the quick turnaround on the outro and the information about the uploading transcript. Perhaps you can convince Murph to turn this presentation into an HPR episode. I can't speak for the whole OLF team, but it would surprise me if we would have a problem with him using the audio from the YouTube stream in the event he doesn't want to make a new recording. He can work out the details with us. And then I had the sad task of announcing to the community that K5 Tux Russ from the Linux in the Hamshack passed away and I supplied some links to that. Claudio M says, Wow, I lost touch with him years ago, but I remember meeting him in person at Self 2021. My condolences to his family. I left a message on his wife Cheryl's page, passing on our condolences from the HPR community. And Klaatu says, K5 Tux was such a great guy. He'll be sorely missed. I saw him often at OLF and Self and was hoping to see him at a St. Louis convention. He was trying to get off the ground. I think I designed the logo involving the gateway arch at some point. He was a really nice guy.",
+      "keywords": [
+        "newsboat podcasts",
+        "podcast aggregators",
+        "downloading episodes",
+        "episode podcast",
+        "podcasts reddit",
+        "podcast war"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -0.991
+    },
+    {
+      "segment_id": 14,
+      "start_time": 1878.75,
+      "end_time": 2064.15,
+      "text": "Gave me lots of tips about Linux and sometimes life in general. Klaatu. Okay, there was a discussion on Telegram about the reserve queue and I asked Kevi and Dave to put it onto the main channel. I don't think I was clear enough to them about what I, why I wanted that. But, okay, it is what it is. In response to another of Ahooka's fantastic YouTube subscription episodes being released from the reserve queue, Kevi said on Telegram. And this is Dave Lee from the Love Bug posting. Kevi said, Whilst I enjoy these shows, it's a shame that we are seeing another one being released. Personally, I think the shows from the reserve queue are being released too early. Reserve queue episodes go in to fill a gap one week before release, which means that another one will go in the queue from next Thursday, if someone doesn't submit show 4564 by tomorrow. I wonder if the role from the reserve queue has evolved into something that removes the criticality of submission. Because, for as long as there are episodes in the reserve queue, there will never be a gap in the next five weekdays. Of course, once the reserve queue starts to empty, then there will be major panic. But I think it's often the fact that there are empty slots in the next day or two that spurs hosts into action. It's all about optics. If it looks like there are episodes posted, where is the urgency? Thoughts? And Klaatu chimes in. I think you're making an interesting point, Dave. I wonder if scheduling could be opt-in, for example. What if we could contribute an episode and leave it to fate to find the time for it to run? But when you have a specific date in mind, like May the 4th for those clever Star Wars episodes and so on, then you have the option to define a specific date. In other words, everything goes into the reserve queue by default and posts on a first-in, first-out basis, unless the contributor chooses to override the reserve and gaps are available date. He goes on. Or maybe psychology of seeing available days prompt more contributions, and a big bucket of reserve shows doesn't have the same effect. I understand that part of the structure of contribution is about tricking our brain into feeling urgency about contributing. I respect that and benefit from it, probably. John Spring says,",
+      "keywords": [
+        "episodes reserve",
+        "reserve queue",
+        "queue episodes",
+        "queue released",
+        "telegram reserve",
+        "reserve gaps"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": 0.993
+    },
+    {
+      "segment_id": 15,
+      "start_time": 2064.15,
+      "end_time": 2223.0,
+      "text": "I must confess I wasn't bothered by when my two episodes were playing, so I just put them into the reserve queue. One of them still hasn't made it out yet, and the first one played almost immediately because I was a new host. Mark Rice says, The opt-in idea might work. Also, it might help, as Dave implies, to release the shows from the reserve two to three days before we run out. Okay, and then I go into what I didn't intend to be a rant, but apparently is a rant. Anyway, I would like to take some time to thank, this is me, I'd like to take time to thank Kevi and Dave for moving the conversation from the mail list. The response brings up several points that I would like to address. Reserve queue. I'm glad to have the opportunity to discuss how the reserve queue is going. The rationale of using the reserve queue is not new and was discussed by Dave Morris on the July billing-free slots from the reserve queue. I go into more detail about the mechanics behind this in HBR 4195, Hacking HBR hosts. Too long, didn't read. It is that we use it as a mechanism to control the unstable nature of submissions versus the stable nature of postings. And then I go on to quote Kevi's comment about, Here, Kevi and others before him see shows coming from the reserve queue as a failure. This is not the case. We needed extra shows, so we took them from the reserve queue. This is the system working exactly as it was supposed to do. And in response to Dave saying, I think it's often the fact that there are empty slots in the next day or two that spurs hosts into actions. I reply saying, The statement is predicated on the assumption that hosts monitor the queue and act once it is empty. This is not the case. We have had 51 times where the queue was so low that we needed to issue a call for shows. In 2013, there was one.",
+      "keywords": [
+        "reserve queue",
+        "shows reserve",
+        "discuss reserve",
+        "just reserve",
+        "coming reserve",
+        "reserve days"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -0.998
+    },
+    {
+      "segment_id": 16,
+      "start_time": 2223.0,
+      "end_time": 2663.55,
+      "text": "2014, 12. 2015, 2. 2016, 6. 2017, 2. 2018. And 2019, 3 each. 2020, 2. 2021, there was 5 call for shows. 2022, there was 10 call for shows. 2023, there was 4 call for shows. And in 2024 and 2025, there were no calls for shows. Who reading this, or even listening to this, can tell me now, without checking, when the next free slot is. Not many, given that the calendar page is only being accessed by less than 200 unique IP addresses this month. Many of those IP addresses are suspiciously in the same IP assignment range. As in, it's 1, then 2, then 3, then 4. Anyway, my feeling is that most common case for opening up the page is when you already have recorded a show and you're looking for the next free slot. There are, of course, those people who engage in the unhealthy practice of tracking the queue. At any given time, there may be one or two hosts who feel the responsibility to rush in a show to fill empty slots. This is not good for HPR listeners. This is not good for HPR, as listeners complain about too many shows from a particular host, or the quality of the rush shows was poor. Worse, it's not good for the hosts in question, as it creates a never-ending, unnecessary stress on what should be an enjoyable project. Just a side note, I am the first one. In fact, I'm the one who's most susceptible to this because I'm constantly checking the queue, which is actually, in hindsight, which is why I only check the queue on a Friday. Because then it's one day a week that you do it. Okay, back to the comment. Over the years, I have had to advise several hosts to stop looking at the queue, as it can become addictive. If any host has submitted a show in a given year, all calls to action no longer apply to you. Okay, back to the chart. In the chart above, you may ask, if the reserve queue was so brilliant, why did the problems persist after 2022? So, 2022, there were still calls after it, and there were four calls in the following year. So, if you've ever had to deal with network congestion, you will know that at some point you'll need to signal back to the source, either to slow down or speed up. In our case, we signaled back to the hosts to speed up by sending out a call for shows to the mail list. Now, a mail list outage in 2023, in July of 2023, made me realise that a call for shows only reaches the 214 people on the mailing list, which is a small subset of the HPR listeners. So, any episode gets maybe 10,000, 8,000 to 10,000 downloads, and a tiny link of the active subscribers, which is 130,000. So, we're missing a large number of existing, and more importantly, potential hosts. From then on, I added the warning, you are listening to our show from the reserve queue. We are airing it now because we have free slots that were not filled. This is a community of projects that need listeners to contribute shows in order to survive. Please consider recording a show for Hacker Public Radio. I'm happy to say that at least five new hosts have reported that they've joined HPR specifically because they heard the show from the reserve queue. Therefore, I believe we should keep the urgency where it belongs, out in the open, spurring people who have never contributed to do so. If the project cannot continue without intense intervention from a small subset of hosts, then we should wind it up as it's no longer functioning as a community podcast. So, basically, it's not a community thing. It's just a core of central people releasing episodes. Choice of scheduling. This is Klaatu's dump everything into the reserve queue thing. Again, I say this is not the first time that this was discussed and we support it already. The very first option on the upload page is add to the reserve queue. Post your show to the reserve queue if you don't care when it will be released. Only after that are hosts given the option to pick a slot. We do require that hosts put their first show in the main queue so that they get issued with a host ID in the database. But, other than that, we do what you want to do today. And, in the case of John Spriggs there, I posted the show on his behalf to the next available slot. With his permission, obviously. Just on a side note, if people want to subscribe to the shows as they're posted without having to wait for them to be released, there's also a link on the subscription page, hackerpublicradio.org, rss-future.php, into your podcatchers of choice. Okay, and then we go on to the actual topic of Dave's point about the reserve queue that posted them on Thursdays too early for next week. And, I say, you have a point. During the weekend, I fill the free slots that were not filled in the next week. This means that, in practice, there may not be a free slot available in the next seven days. The question is, what's a reasonable time to call it? I post a reserve show in that free slot. In my experience, excluding the queue watchers, it's very unlikely that somebody will rush in and fill a free slot, let alone multiple. Over one-third of the reserve shows posted have been in weeks that there were multiple free slots available. We need to have such a large delay due to the nature of HPR versus other podcasts that have control of their entire workflow.",
+      "keywords": [
+        "queue airing",
+        "queue watchers",
+        "looking queue",
+        "calendar page",
+        "tracking queue",
+        "calendar"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -0.998
+    },
+    {
+      "segment_id": 17,
+      "start_time": 2663.55,
+      "end_time": 2744.1,
+      "text": "And, what I mean by that is, if you're recording a podcast, say, the New World Order or whatever, you're recording it, maybe you're doing an interview with somebody else, you have control over both sides, you listen to the audio. If there's a problem, you can go back immediately and get somebody to re-record it, you put it together, you upload it. It's your big thing. That's not the way with HPR. We have a lot of issues. And, I'll list just some of them. For example, missing audio. Slots kept open without posting. Invalid links to the audio. No permission on the link given to get the audio. The link turns out to be a tar zip file requiring manual posting and hackery. The audio for the wrong episode. Audio with missing sections. Audio with copyrighted content. Audio with no show notes. Audio that breaks FFmpeg or socks. Audio that is in Audible and requires fixing by Audiophonic. Audio that's actually an image. An image that's actually an audio. Show notes in HTML that is actually markdown.",
+      "keywords": [
+        "recording podcast",
+        "content audio",
+        "audio copyrighted",
+        "episode audio",
+        "audio",
+        "audiophonic audio"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -0.999
+    },
+    {
+      "segment_id": 18,
+      "start_time": 2744.1,
+      "end_time": 2812.95,
+      "text": "Show notes in HTML that is actually rendered HTML code. Show notes in format of your choice. Show notes that contain UTF-A characters not supported by MSQL. Show notes that refer to sites but there's no show notes there. Show notes that refers to show notes but they're not licensed CC by SA. Show notes with broken links. Show notes saying there were no show notes. Show notes with misspellings. Show notes with breaks and images. Show notes that refer to images but contain none. Show notes that are just images. Broken libraries for audio, transcripts, images, subtitles, metadata, pandoc, internet archive being done due to DDoS. Internet archive bugs with their API. Honesthost.com migration are running out of disk space on rsync.net. And since I sent this out another one where a host sent in an image and the image broke the extraction tool because there was an embedded thumbnail in that.",
+      "keywords": [
+        "notes html",
+        "sites notes",
+        "images notes",
+        "links notes",
+        "notes format",
+        "code notes"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -0.999
+    },
+    {
+      "segment_id": 19,
+      "start_time": 2812.95,
+      "end_time": 3118.95,
+      "text": "That host was me. And on the same episode that I sent in we had a holdup on the internet archive where the workflow stopped and I had to log in and restart the workflow over there. And that cleared it after an hour or two. And then we go on to say not to mention anything that involves the auditors. Each and every one of these things cause a delay. While I can fix some myself, some just have to wait for the service to be up or for me to come up with a workaround. But by far the biggest delay is getting in touch with the hosts. If you have a question tonight, I can expect an answer tomorrow and then at least a day to wait for a fix. And only then is it resolved. And in some cases the fix may need another fix, etc. And it can go back and forth, can extend to weeks. Waiting to the last minute to post the show means there is not time to resolve any given issue when they arise. The situation is actually made worse when somebody has just picked a slot. As then they need to get the auditors and or the list involved to release it. That may take days to come to consensus when urgent action may need to be taken immediately. And we saw that previously with somebody who was trolling us taking advantage of the summer period to mess around with shows like that. So I go on to say posting to the reserve show can also close to the deadline can also be problematic if there are issues with it because the host needs to be available to deal with episodes that were authored a year ago. So what I mean by that is if you dump everything into the reserve queue, they're not processed immediately. They don't have a number. They're not an episode. They're just sitting there in limbo. And any of the errors and bugs and issues that there are with them remain there and will not be fixed until I process them. And if we're saying the first in, first out into the queue, then I can't post another episode because that episode needs to be fixed first. So that host needs to be contacted and that host maybe have changed their email address, which has happened also quite often with the host might not be available, might be on vacation. Who knows? And yet our queue is held up. So lots of lots of issues around posting shows that we don't actually go into a lot of detail with. But, you know, if you want, thankfully, Dave used to do this and I didn't need to bother with it. But now I'm having to deal with it quite a lot. So, OK, before we spend a lot of time on this, can I ask if this is a real issue people have faced? The reason I'm asking is because we come up against this during normal operation all the time, even when there is not a reserve show posted. So has anybody ever posted a show to a slot that was occupied by a reserve show? Then, as soon as I said that, I realised I could probably have phrased all of that a lot better. But anyway, I replied to the mail list saying, As there was no response to this thread, I'm worried that the tone of the email may have offended some people. If that's the case, I would like to unreservedly apologise. It is definitely not meant to criticise or attack in any way. When I get a question, I feel the need to give a detailed answer as to why it's been done the way it is. But are the assumptions correct if we've already tried something or not? This should never be done in a way that will alienate anyone in the community. Everything we do should have a reason, and if it's not working, we should change it.",
+      "keywords": [
+        "delay fix",
+        "delay getting",
+        "cause delay",
+        "biggest delay",
+        "issues host",
+        "delay"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -0.999
+    },
+    {
+      "segment_id": 20,
+      "start_time": 3118.95,
+      "end_time": 3569.4,
+      "text": "All the issues I pointed out below have happened since the start of the project, and I, as much as anyone else, have done them. I'm sure Dave Morris will testify to that. My only intention in listing them was to explain why there can be a delay in posting the shows. And as far as tracking the queue goes, I am and was the number one offender there as well. I'd appreciate it. People would call me out on stuff like that when they see it's happening. So, that. And Kevi says, Hi all, just to be clear, I'm not offended. I have a thicker skin than that. However, I subscribed to the Digest version, so only we received all of them combined. My comments about it is a shame to be here another show. It was purely because I felt there had been a lot pulled in that week. Not that it was an any failure. Just wondering if the algorithm to pull the show could be reduced to what, or was it this an essential minimum. I do think that things should be discussed and reasons given, and I'm always happy to hear feedback. We don't have to agree with each other 100% of the time. We often disagree a bit, but that doesn't mean we're falling out. I'm actually quite happy at Ken's frank discussion and an explanation, and I'm not offended. Again, thanks to all who contributed the feedback, and I continue to feel the openness is important. Leander says, Hi Ken, I want to at least speak my voice in agreement. You say very clearly, and with good data and examples, much of what I was feeling but struggling to articulate, at least without calling myself out for not having submitted a show recently, might just as well own up to that up front. For me, the urgency comes from the automatic notice at the start of the shows. We had free slots that were not filled. But I do wonder if the way we talk about the urgency, or the, at times, desperately sounding pleas, included by hosts when recording a show for the reserve queue, are a kind of self-fulfilling prophecy. We talk about the project as if it's struggling or even dying, and I think that might come across to listeners and potential hosts in a way that actually discourages them from submitting a show. I generally don't like to speculate this way about, without offering solutions or ideas, but I don't have one. Probably best just to clear the clutter off my PC and get to work on a show for 2026. I just heard a new host, and perhaps the variety of hosts is the best encouragement to keep that happening. To which I reply, that is a very valid point. With currently 28, five and a half weeks of shows in the reserve queue, more sedate explanation is called for. Actually, before that, I want to talk to Kevi's point, because I only realised now, doing the HPR community news, how many shows we had from the reserve queue, and we should maybe flag that up, that there are periods of time when we're getting a lot of shows from the reserve queue. I wouldn't have normally expected January to be a month where we would get a lot of shows from the reserve queue. People tend to have time off over the holidays and submit shows. So there were quite a few, actually, and Kevi does indeed have a point. Anyway, going back to my comment about Leander's thing, we could change it that if there are 15 or more shows in the queue, we add something like, you're listening to the show from the reserve queue. This show was submitted, you know, however long ago, to cover occasions like this where there are gaps in the queue. Then when we get to under 10 shows, you're listening to a show from the reserve queue. We have now less than two-week shows in the reserve queue. This would be a good time to consider submitting a show. This show was submitted blah, blah, blah long ago. And then when we get back to five, we put in the topic that we have now. And then when we go to zero, we say thank you for listening to Africa Public Radio. We're shutting down the project. Goodbye, and thanks for the fish. I like the idea of a more granular approach. I think we should put things like, should we put things like when the next free slot is, there are 10 free slots coming up in the next week, or something like that, ideas. Roan says, I'm up for this approach, you know, having the granulated one, and vote for adding the message urgency ramp up as described. And then about, goodbye and thanks for the fish. I mean, if you're going out, let's make sure we get the exact quote, smiley face, so long and thanks for all the fish. And about adding more information in there. I don't know if that would encourage more queue watching, giving the exact count, or maybe help with the urge, since they know about it. I'm okay with adding it. Might try it out and see. Sporless says, I'm also in favour of Ken's purposeful plan for increasing the urgency message as the reserve queue empties. And Jim Leonard says, second it, if it's not too difficult to implement from a technical span point. No, actually, it would be quite easy to do. I need to automate that anyway, and that's a good way to do it. Good reason to do it. Henry Cameron says, I can thank you for your, the depth of explanation and reasoning, and of course, thank you to all who discuss and read this matter. It's about two years since I gave my first show, and somewhat longer since I became a listener. Over time,",
+      "keywords": [
+        "posting shows",
+        "submit shows",
+        "10 shows",
+        "15 shows",
+        "weeks shows",
+        "week shows"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -0.895
+    },
+    {
+      "segment_id": 21,
+      "start_time": 3569.4,
+      "end_time": 3735.0,
+      "text": "I've come to understand better how the reserve queue works, about the urgency of more shows, and not to see the slots as too problematic. The mail below helps me further to understand that, so thanks. I think looking back at my experience, that at the same time as new shows are important and essential for HBR to continue, I have a minor feeling of urgency crisis has been received to me as somewhat more alarming than intended. Thanks for all this discussion and clarification. Good, good, good. Jim Leonard also says, I was saying, if it has offended people, no, not at all, he says. However, it somehow got flagged a spam for me, so I had to give it, and a few more replies to the thread, out of my spam folder. While I've only contributed a handful of shows, and I'm not sure if my opinion has any weight, I think the system is working as intended, and don't see the need for changes, especially since the upload hints text on the website was clarified 18 months ago. Okay, and that was it. We had a community news message asking people to come to the community news recording, and that's it, I think. Speaking of the queue, maybe we should have a look at the queue. We have some free slots. One show just posted for next week, and we have a free slot the week after, and then after that, it's pretty much lots of free slots. There are still Kevies and Whiskey Jacks, sorry, Ahookas and Whiskey Jack shows in there, so you have plenty of slots if you've got an episode. Okay, with that, tune in tomorrow for another exciting episode of Hacker Public Radio. You have been listening to the Hacker Public Radio podcast, at hackerpublicradio.org. Today's show was contributed by a HPR listener like yourself. If you ever thought of recording a podcast, then visit the HPR site to find out how easy it really is. Hosting for HPR has been kindly provided by anhonesthost.com, the Internet Archive, rsync.net, and the HPR Community Content Delivery Network. Unless otherwise stated, today's show is released under a Creative Commons Attribution-ShareAlike 4.0 International.",
+      "keywords": [
+        "reserve queue",
+        "urgency shows",
+        "thread spam",
+        "urgency crisis",
+        "spam",
+        "feeling urgency"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": 0.989
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "episode_id": "audio6",
+  "duration": 1800,
+  "segments": [
+    {
+      "segment_id": 1,
+      "start_time": 0.0,
+      "end_time": 244.35,
+      "text": "This is Hacker Public Radio Episode 4575, for 2026-02-13 Today's show is entitled, \"Making First Contact\" The host is Ken Fallon and the duration is 00:29:16 The flag is Clean, and the license is CC-BY-SA The summary is \"Ken finally makes his first contact with Kees \" hi everybody my name is ken fallon and you're listening to another episode of hacker public radio wow this one has been a long time in the making ladies and gentlemen i am joined here by elmer and you are i am case and the call sign is papa alpha seven tango risky oscar or m5 twr yeah in five two in five two so um the reason that this we're actually recording after work and uh case is a licensed amateur radio operator here in the netherlands and my first contact with you was where some sort of i had some sort of aerial uh 5 8 whip thing and uh one of the guys said yeah go down to case he knows all about this and ever since then case has been bugging me to do uh to become amateur radio operator and it was actually you send me a link that the rsgb which is the religious society of the great britain during cold war had switched their introductory licensing to online for the first time yeah yeah which actually brings me to this episode because they also removed the need to do the when you do the technician class in the uk you're supposed to do go to a club and you're supposed to do your first contact and you're supposed to do the aerial and stuff and all the physical stuff of course that wasn't allowed during covert times so i skipped over that then when i got the intermediate they had put that also online and then when i had done that the third one also came online so i ended up not having made a contact and getting my full license and now i've got a dutch license due to the magic i'm haric and now i'm paranoid because i got this lovely radio which i bought from you or via you and i'm very scared to turn it on because if i get yeah get around i'll blow it up a little bit of background from my end then yeah 1990 was my first license in the netherlands d license on the vhf what was it 25 watts or 10 watts or whatever in fm mode 1991 half year later i switched to f-class that was 50 megahertz yeah full license it was 15 megahertz and up whereby the six meter band was the only possibility to do dx-ing further than let's say 1500 to 2000 kilometers that lasted until the year 2000 where i took the advantage of the switching from z class a and b to be to become more less so to say and in one of the very last exams in the uk i did the cw uh uh yeah the moscow the moscow exam and hence me getting the uh the m5 dw as i believe the one and only foreigner in a range of something like maybe 90 or left or so",
+      "keywords": [
+        "amateur radio",
+        "radio episode",
+        "radio",
+        "radio wow",
+        "radio operator",
+        "license vhf"
+      ],
+      "summary": "This is Hacker Public Radio Episode 4575, for 2026-02-13 Today's show is entitled, \"Making First Contact\" The host is Ken Fallon and the duration is 00:29:16. The flag is Clean, and the license is CC-BY-SA. The summary is \"Ken finally makes his first contact with Kees\"",
+      "sentiment_score": -0.987
+    },
+    {
+      "segment_id": 2,
+      "start_time": 244.35,
+      "end_time": 460.8,
+      "text": "and of course i'm uh range super and you're still bugging me to do sort of motorcycle absolutely elementary cause yeah it would be nice it would be nice because as i said to you it would be nice to get an irish call sign because they're they give you the ie then a number and a three debtor if you don't have morse but if you do morse you have to you know it's just a subtle thing it's like you've got horse i see you've got horse um that's the same with the m5 right yeah it would be nice and it also bugs me that my license has got cw not included yeah yeah on the little license card yeah okay now i might not be willing to blow up uh two grand amateur radio but i am willing to blow these things up and these things here are both filing five or minis uhf vhf analog amateur radios for i was able to get two of them for the price of 35 euros to deliver to your house deliver to my house okay somebody somewhere has been exploited but okay fine um the guys on the it's probably just one chip inside yeah exactly that's that's what it is and that's right it's darn cheap uh the guys on the hbr um uh channel were talking about this so it was like a no-brainer and tech minds video i'll put a link in the show notes also a link to pictures of this in the show notes as well for this episode so what we're going to do is this is the plan we will open this up oh and we will uh make a contact and we will make my first ever contact with an actual radio and basically go through what would have gone through had i needed to do it back in the day okay sound good yeah let's open the box oh look at that so what we're looking at here are two little radios and by little i mean they're tiny they're like very tiny they're like remember the old mobile phones yeah i got those specifically so there you go have one room and drill you're gonna have one yeah i'll have the other here's here's the battery and the battery uh i did unpack these last night on charge actually it's actually made from aluminium right yeah it feels oh basically it's heavier okay yeah it feels nice and the battery's got a usb charger on it meaning you don't need any additional proprietary connector or whatever however you would i i mean i've got bars of chocolate that are bigger than this yeah it feels nice in them it does feel nice yeah you it's clicks together it's okay quite well how do you put the box in presumably",
+      "keywords": [
+        "amateur radios",
+        "radios little",
+        "vhf",
+        "radio willing",
+        "amateur radio",
+        "minis uhf"
+      ],
+      "summary": "i was able to get two of them for the price of 35 euros to deliver to your house deliver to my house okay somebody somewhere has been exploited but okay fine. We will make my first ever contact with an actual radio and basically go through what would have gone through had i needed to do it back in the day.",
+      "sentiment_score": -0.994
+    },
+    {
+      "segment_id": 3,
+      "start_time": 460.8,
+      "end_time": 715.5,
+      "text": "it says bb turn them out okay um anything about the antenna on this it says fm 136 to 174 400 to 520 megahertz so i'll screw on the little tiny antenna and literally it is the width of my hand okay how do i turn this off that is a little bit of a question right it's now in dual band mode so we need to try to get rid of that i haven't i have a manual oh dear you didn't find it out first yeah we can look at the manual or we can waste everybody's time here while we're talking about amateur radios so this thing is um has got a little rubber duck antenna at the top it's got a button that says volume on and off and when i turn that on i see the bowfine logo and it says four three zero and then disappears menu and we'll pause the recording here while we figure out how these radios work so we got them working we don't know how but fine i don't know how you do so um what we're going to do now is a qso what's what's a qso the qso is just an interaction between two radio licensed radio amateurs in this case and just exchange some information and we start by asking whether the frequency is actually free to use so no why well you can interfere others if you don't and that we should try to avoid them you can just change the frequency take another one which is free and do the conversation there so what what uh what spectrum are we using what button with all right this is to meet a bit so one four five five uh five two seven megahertz so that means exactly the same thing so yeah which is a simple simplex channel and so one four five six hundred and up are for repeaters right and for some other uses as well but below that up to one four five what is it two hundred or something that's for simplex traffic so when we talk about meters two meters we're talking about it's shorthand for a range of frequencies it's about how long the wavelength is that is correct and then you can also say how frequent the wavelengths come past is also a way of measuring it it all relates to the propagation speed of light so it's essentially the same thing yeah um and that also depends on the antenna that you have whether it can pick it up or not or whether it resonates uh better at least on the two on the on the two frequency bands that are in this little handle uh yeah so super short of ship optimized so you've got all the spectrum and then amateur radio gets a thin slice of the various different bands so you've got the very little bands 20 meters 40 meters yeah and we've got a tiny little sliver of all of those and then within a country those tiny or within a region those tiny slivers are further divided up so that this this part is where you're going to get more schooled this part is where you're going to get talky talky stuff yeah here's where our repeaters are recommended not a firm firm very firm depends on the",
+      "keywords": [
+        "tiny antenna",
+        "antenna",
+        "radio amateurs",
+        "antenna got",
+        "um antenna",
+        "radio"
+      ],
+      "summary": "Amateur radio gets a thin slice of the various different bands so you've got the very little bands 20 meters 40 meters yeah and we've got a tiny little sliver of all of those. Within a country those tiny or within a region those tiny slivers are further divided up so that this this part is where you're going to get more schooled.",
+      "sentiment_score": -0.999
+    },
+    {
+      "segment_id": 4,
+      "start_time": 715.5,
+      "end_time": 890.1,
+      "text": "country but here in the netlands at least it is an advice yeah so let's do that yeah and you're also not wasting time by being somewhere that somebody's not going to be so actually okay so what's next what what next would be that we will exchange the callsigns does it matter so say identification i will go cq which is a shorthand for or can i go cq talking to you and give your callsign you in example if you're just querying whether somebody will respond to you uh beside that like for now we've got the appointment here made to do the qso but you're just sending it out in the in the world so to say that radio signal is there anyone around basically yeah yeah exactly and then you you provide your call sign and then receiving stations on the other end now okay it's a guy from holland or from england or whatever country they probably can even see your license class they can in the meantime if they really quick look you up on qrz.com so they know your name already up front or at least the location they are where you're probably transmitting from and then you exchange the two callsigns so i know that you are valid licensed radio amateur and vice versa and then you can have a conversation about almost anything you like except uh music in the netherlands that's still not allowed although you can talk about it but you can't play it yeah i do hear qsrs whereby an example just a tiny little bit of music or or tiny little bit a low volume of music is actually playing in the background i never heard of any problems around that topic but what what needs to be avoided is like you are like a pilot's radio station yeah broadcast our station yeah that is not what they like yeah and it's supposed to be for amateur use and non-commercial exactly exactly so and we should also bear in mind that it's a public channel so everybody can listen everybody can listen in so uh be aware that there are small kids or whatever could be listening yeah that is of course with normal fm fm mode radios and nowadays we also use digital modes",
+      "keywords": [
+        "licensed radio",
+        "radio signal",
+        "callsigns know",
+        "radios",
+        "talking callsign",
+        "radio amateur"
+      ],
+      "summary": "country but here in the netlands at least it is an advice yeah so let's do that yeah and you're also not wasting time by being somewhere that somebody's not going to be so actually okay so what's next what what next would be that we will exchange the callsigns does it matter?",
+      "sentiment_score": 0.571
+    },
+    {
+      "segment_id": 5,
+      "start_time": 890.1,
+      "end_time": 977.4,
+      "text": "whereby at least you can scribble some of it and there are specific propriety uh handles where you program a specific code just between what uh let's say two or more handles but uh if you don't know that specific programming goes then you cannot decide yeah i thought that's that's sort of gray area because you're not supposed to encrypt anything either yeah yeah it happens yeah it happens fair enough okay so can i suggest you go outside i'll stay here with the recording yes sure then i'll press the b button i'll call qso rcq yeah then what do i do you start talking i just go is this frequency free first of all then that is that's the first thing you always need to ask or or just determine whether the frequencies you use yeah you want to know for sure you want to be certain then you ask if you can see yeah and then uh then there's five and nine what's this five and nine that everybody keeps talking about i actually wanted to take a side step and look at your transmitting lookbook what is what is",
+      "keywords": [
+        "just frequency",
+        "look transmitting",
+        "recording yes",
+        "frequency free",
+        "recording",
+        "frequencies use"
+      ],
+      "summary": "whereby at least you can scribble some of it and there are specific propriety uh handles where you program a specific code just between what uh let's say two or more handles but if you don't know that specific programming goes then you cannot decide yeah i thought that's that's sort of gray area because you're not supposed to encrypt anything either.",
+      "sentiment_score": 0.653
+    },
+    {
+      "segment_id": 6,
+      "start_time": 977.4,
+      "end_time": 1066.95,
+      "text": "what is that about and why should why do you need here because we are here in the netherlands we're here in the netherlands and there's not not it's not mandatory and it's not i don't think it's mandatory in the uk either but it is mandatory in ireland and i personally think it would be nice to record of course yes because i'm not i'm not dx-ing and dx-ing is something that you are very much into um which is dx-ing will be contacting this distance stations i guess the action can be described as like a a distant dcc entity yeah which can be okay when you start with uh with amateur radio and if the goal of of doing the hobby is like okay i want to work as many possible countries or entities then any new country is actually a dx for you yes but for me it is like the the very few remaining are all way past 15 000 kilometers from from where i reside with my with my amateur radio station and yeah you need specific conditions provided by mother nature number one politics yeah politics as well but with regards to",
+      "keywords": [
+        "netherlands mandatory",
+        "distance stations",
+        "need netherlands",
+        "amateur radio",
+        "uk mandatory",
+        "ing dx"
+      ],
+      "summary": "what is that about and why should why do you need here because we are here in the netherlands we're here inThe netherland and there's not not it's not mandatory and it'sNot. i don't think it's mandatory in the uk either but it is mandatory in ireland and i personally think it would be nice to record of course yes.",
+      "sentiment_score": -0.96
+    },
+    {
+      "segment_id": 7,
+      "start_time": 1066.95,
+      "end_time": 1493.55,
+      "text": "neighbors you mean no no with regard they might be there the it wouldn't happen oh yeah yeah look at p5 like like north korea i mean the only way to contact that country is probably via if in the future like it happened in the past is with the vn mission yeah and then for the vn mission at the time the only way to to one of the ways to talk back to their home country was via the amateur radio yeah un mission yeah so they're yeah exactly so yeah unless something funny happens so to say or something totally unexpected with with regards to north korean uh north korea um yeah that will be one of the countries you've also that i just can't work you also chase chasing dx is something that you've done you've done different modes morse codes yeah yeah well all the different yeah there's in the in the united states there's a award program uh dxc award program and you basically start with um contacting at least 100 countries or 100 entities so to say you get all the digital or the paper confirmations or a paper confirmation being a qsl card yeah yeah yeah qsl card those cards need to be checked by a field checker from the dxc desk most countries have got one person assigned within the amateur radio community to do their field checks and then the list will be sent to the usa to the desk and if they approve your application then you get a nice award and that you have contacted and confirmed a conversation with at least 100 countries but that's just the start next you can also do exactly the same on all frequency bands that you are allowed on but you can also start and they've got the program as well to do an example in single sideband mode in frequency mode or am mode or cw mode so yeah that is rather a life a challenge for life yeah i think that's the right wording here uh you probably be never ever complete uh you can never complete admission and some of us now are at the stage whereby yeah most of the entities are being confirmed are confirmed and there's just nothing new anymore no and then you need to take another look at the hobby you're like okay yeah yeah yeah i'm going to do next there are many side steps like you can get all kinds of certificates etc etc but the dx hunting so so working that specific entity which cannot on a normal circumstances not be reached during the day or night or whatever period of time of the day and then you make the qso after five years of waiting and trying and desperately sending emails like i can be please be on the frequency in that time at that time of the day we should have at least one percent chance and if then the qso completes then you're just happy days yeah of course and i've got several with whereby we had to attempt so many qsrs yeah and one of the countries and a qso is sorry just in case a qso is just a conversation conversation yeah yeah yeah and so we're going to be having a qso now here exactly yeah of course that's very short distance well the vhf radio it'll be the longest distance i've ever done yeah yeah yeah exactly exactly but at least it will be in the car my my main uh last adventures uh with amateur radio was the 60 meter band 605 uh five megahertz and um the the band before that one which i wanted to have completed was the one with 60 meter band which is uh with our tiny gardens in the netherlands quite a mission to get accomplished yeah yeah and that took me over three years in summer time during the summer months trying out antennas up to the very moment where all of a sudden it all came together and then it was like in a half year's time i did excellent excellent excellent good stuff and uh because of you i have this hobby now which has been very useful um and i know you're interested in dx but for other people listening it's it's like when somebody says oh you're in it you know you're you're going to a party at something and you go you're in it and you're talking to somebody who's who's doing you know databases for ibm or you're talking to somebody who's doing cobalt there's so many different facets of the hobby yeah yeah but the good thing about it is once you get your uh once you get your full license uh all how to's and all discussions are based on that level of assumption if you're having a conversation with somebody who's got a full license you you don't need to start explaining how yeah you you can assume that they know the speed of light you can assume that they know what uh when you when you go for the exam for the license right you need to have basic knowledge of electronics in example but also about antenna also about propagation safety safety safety uh so yeah it's just nice nice common knowledge as well yes it's nothing and only anything that i've come up on the course that hasn't i haven't found interesting or yeah or in fact useful later on particularly what we do here and work okay should we do this thing is it so super okay i'll press pause",
+      "keywords": [
+        "chasing dx",
+        "neighbors",
+        "dx hunting",
+        "neighbors mean",
+        "morse codes",
+        "checker dxc"
+      ],
+      "summary": "Amateur radio is rather a life a challenge for life yeah i think that's the right wording here. Some of us now are at the stage whereby yeah most of the entities are being confirmed are confirmed and there's just nothing new anymore no and then you need to take another look at the hobby you're like okay yeah yeah yeah i'm going to do next there are many side steps like you can get all kinds of certificates etc etc but the dx hunting.",
+      "sentiment_score": -0.996
+    },
+    {
+      "segment_id": 8,
+      "start_time": 1493.55,
+      "end_time": 1982.7,
+      "text": "okay papa alpha seven kilo echo november go ahead over yeah papa alpha seven thank you what's your call sign again over okay okay papa alpha seven tango whiskey alpha this is papa alpha seven kilo echo november you're coming in loud and clear these are very nice little hand cells and let's say back to you back to you or do you say over yeah okay papa alpha seven kilo echo november this is papa alpha seven tango whiskey oscar yeah yeah maybe it's one kind of menu setting in the little uh but uh the audio is very good um very crisp uh nice mid and high pitch so um yeah this is not bad at all i wonder how much how much how much output power how much rf is actually transmitted by the little radio whether it will be like a few on the billy watts or maybe even a few watts but uh sounds very good indeed uh papa alpha seven kilo echo november this is papa alpha seven tango whiskey oscar listening to tango whiskey alpha is papa alpha seven kilo echo november um yeah it sounds good here i think uh i think we can call this done i did have one question should you um should i be doing this in dutch or uh in english over back to you papa alpha seven kilo echo november back to you yeah it's papa alpha seven kilo echo november this papa alpha seven tango whiskey oscar w o returning um in english or dutch it doesn't really matter right i mean as long as we can identify our call signs and we did which using the international spelling alphabet alphabet the nato alphabet it's all fine okay though then we call it an end uh papa alpha seven kilo echo november thanks for the qso and see you back upstairs in a few minutes from papa alpha seven tango whiskey oscar papa alpha seven tango whiskey oscar closing your station cheers so we're picking this up again so now i've got my logbook not everybody has to do this but it's also no harm what you're doing it so i actually know that exactly the same time yeah so uh i'm filling out the days the start time in utc oh utc so that would be 13 at the moment 13 28 and the frequency that we were on 145 525 and it was fm frequency modulation power we don't know it was high power so i assume they've got something like in the book station called was pa 7 it doesn't matter if called or worked t w o report was five and nine and received was five and nine first contact contact for i'll fill in the number when i get it they don't specify the rf power i'll uh i'll fill that i'll find out and put it in the show notes for this episode look it's not in there the technical specifications with the output power is lovely i think it's uh usually around five lots so what happens now what would you what would happen normally if you were at home and doing this all right then i lock it in my electronic electronic logbook and yet that that lookbook i can manually upload to the dcc desk in the states yeah and or to clublog in germany yeah and then the qso will be hopefully uploaded by you as well yeah and then we got the confirmation yeah that indeed both parties uh both stations entered the same date frequency mode etc etc and then the qso is being confirmed in a digital from a digital perspective and then count for the netherlands as your first dcc you just work now your first country your first entity or country and next uh if one like then one likes then uh we can exchange qso card which is a postcard sized card uh often decorated uh however you want it to be with your call sign and the flag of the country or or i have one of yours here which i'll put a photo in the show notes yeah sure and on the back of that card or on the front depending on the back uh you write the qso data so the date of the day the time the frequency used the mode used power used maybe some remarks and uh that will be exchanged uh in uh can be exchanged two ways one is uh direct over the mail yeah or via the snail snail mail system and the other way is via the qsl bureau which is a collective uh postal system for qsl cards amongst countries or better to say amongst amateur radio unions within the country so it goes but then it takes a long time in general like all the year is nothing somebody's going to germany so they'll bring a bag to germany so you can probably imagine that if you send the qsl card to a distance uh dxcc uh it can take up to many years before this even sent yeah but it's once it's it's not two euros to send a card even to europe exactly so if you wait for 11 of them you can send 20 kilos of a box for that price yeah you can probably also imagine that if you make your first qso like you did now you're very eager to get the qso card yeah you can probably also imagine that if you were the thousand pa yeah you're not really interested more in the cards yeah but if you still want to because of some certificate or or or whatever award program is maybe maybe maybe used by yourself then you can still request it by sending a card via bureau which will take ages general but the cards will be there yeah the losses are minimal fortunately the other way is that you log in into club log one of the electronic systems and you can directly request a qsl card being sent over the post you pay a few dollars like two or three dollars just for the purchase costs and then you can expect your card much quicker being at your own okay case we're hitting uh half an hour on that i think that was uh absolutely excellent thank you for taking the time most welcome i'd like to be not sure i'm gonna",
+      "keywords": [
+        "radio like",
+        "kilo echo",
+        "audio good",
+        "power rf",
+        "uh audio",
+        "echo november"
+      ],
+      "summary": "okay papa alpha seven kilo echo november go ahead over yeah papaalpha seven thank you what's your call sign again over okay. We can exchange qso card which is a postcard sized card often decorated with call sign and the flag of the country or or i have one of yours here which i'll put a photo in the show notes yeah sure.",
+      "sentiment_score": 0.969
+    },
+    {
+      "segment_id": 9,
+      "start_time": 1982.7,
+      "end_time": 2048.85,
+      "text": "thank you for the fact that uh you got me into this thing in the first place but uh it's been uh it's been a lot of hard work uh very rewarding and um i messed up my first qso but you know how you did we got there in the end of course um thanks case and tune in everybody tomorrow for another exciting episode of hacker public radio You have been listening to the Hacker Public Radio podcast, at hackerpublicradio.org. Today's show was contributed by a HPR listener like yourself. If you ever thought of recording a podcast, then visit the HPR site to find out how easy it really is. Hosting for HPR has been kindly provided by anhonesthost.com, the Internet Archive, rsync.net, and the HPR Community Content Delivery Network. Unless otherwise stated, today's show is released under a Creative Commons Attribution-ShareAlike 4.0 International.",
+      "keywords": [
+        "podcast hackerpublicradio",
+        "hosting hpr",
+        "hackerpublicradio org",
+        "podcast",
+        "podcast visit",
+        "radio podcast"
+      ],
+      "summary": "thank you for the fact that uh you got me into this thing in the first place but uh it's been a lot of hard work uh very rewarding and um i messed up my first qso but you know how you did we got there in the end of course um thanks case and tune in everybody tomorrow for another exciting episode of hacker public radio.",
+      "sentiment_score": 0.964
+    }
+  ]
+}

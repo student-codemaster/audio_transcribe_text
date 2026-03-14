@@ -1,0 +1,278 @@
+{
+  "episode_id": "audio2",
+  "duration": 1800,
+  "segments": [
+    {
+      "segment_id": 1,
+      "start_time": 0.0,
+      "end_time": 24.3,
+      "text": "This is Hacker Public Radio Episode 4551, for 2026-01-12 Today's show is entitled, \"“Elsbeth in IT: Since ’97” (Part 2)\" The host is Elsbeth and the duration is 00:39:05 The flag is Explicit, and the license is CC-BY-SA The summary is \"Lee talks to Elsbeth about her experiences in IT as a woman, continued.\"",
+      "keywords": [
+        "host elsbeth",
+        "elsbeth",
+        "talks elsbeth",
+        "radio episode",
+        "elsbeth experiences",
+        "elsbeth 97"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -0.989
+    },
+    {
+      "segment_id": 2,
+      "start_time": 24.3,
+      "end_time": 208.35,
+      "text": "Here we continue to talk between myself, Lay and Ellsworth, about women in technology and Ellsworth's IT career. When my second husband, who he was a software developer, when I met him, had been for quite some time, he was asked by, you know, I'm trying to remember how he and the creator of the company interacted. Somehow or another, he got connected with this gentleman that had an idea for software, but was not a developer himself. And it was for something all I'm going to say is it was for something in the health care wellness bubble. And he started decoding that software for him. And over time, they needed somebody, my ex-husband needed somebody to test the software for him, but they didn't have the funds to pay somebody that had a degree or had more experience. So he asked me to look at it and he had been asking me to look at it and try things out. And eventually he realized, I'm pretty good at this because I have a knack of seeing things from different angles and trying things different ways. And he ultimately wound up having me do the QA portion. He would send a bill for his software development stuff, but then there would be a QA invoice as well. And that was just the work I did. It was never officially under my name. And that's how I got into QA. I taught myself how to effectively look at every aspect of the software from both a usability and a practicality standpoint. And do test studies and keep data records or whatnot. Okay. So actually, what system were sort of systems were these back at least still dots in those days. It was like Windows 3, but when Windows 95. Oh, it was Windows xP? When we started out, I think it was Windows xP, I think. If it were 95, it would be right before the switch over. And it was like 2007. It's when? Yes, so they were just starting when those face turns stuff. You know what, I think I might have had this on my computer when I started testing. Yeah. I'm pretty certain I did. Was that a lot of things across? Well, as you've seen that from their full mentioned IT crowd. So in the episode where the bomb disposal unit is running on Vista and Moshouts. We're all going to die. Yeah. Yeah.",
+      "keywords": [
+        "husband software",
+        "developer met",
+        "software developer",
+        "idea software",
+        "ex husband",
+        "company interacted"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -0.979
+    },
+    {
+      "segment_id": 3,
+      "start_time": 208.35,
+      "end_time": 223.65,
+      "text": "So the software, obviously, had back-end database. Did it have internet connectivity as well? It was meant to be used on an iPad. It started out as like a... It started out as like...",
+      "keywords": [
+        "database did",
+        "software",
+        "used ipad",
+        "software obviously",
+        "did internet",
+        "database"
+      ],
+      "summary": "So the software, obviously, had back-end database. Did it have internet connectivity as well? It was meant to be used on an iPad. It started out as like a... It started out as like...",
+      "sentiment_score": -0.999
+    },
+    {
+      "segment_id": 4,
+      "start_time": 223.65,
+      "end_time": 299.7,
+      "text": "Almost... I don't even want to compare it to YouTube. But do you know Vimeo? A little bit. Yeah. So it's basically... It was basically a way for users to do exercises. I'm not going to talk about the industry. But I think I can see this. It was a way for users to do exercises from home when they needed to. It's kind of like... I guess kind of... Social media is kind of replaced all the time now, but... Yeah. It was basically... This went like the internet, actually. I picked Zypazan. Come out. Back in that day. Well, eventually it was being developed for mobile. It's what I'm saying. Right. Yeah. Okay. So, yeah. So, quality assurance. And yet all the things you've mentioned... To the gender dynamics for different or the same when you are now doing this. At this time period. I mean, I was... Yeah. I was homeschooling my kids. Old time. They were getting older, so I had more time. Like individually.",
+      "keywords": [
+        "compare youtube",
+        "youtube",
+        "vimeo",
+        "social media",
+        "vimeo little",
+        "users exercises"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -0.99
+    },
+    {
+      "segment_id": 5,
+      "start_time": 299.7,
+      "end_time": 379.35,
+      "text": "And so it was basically just... Rather than pay somebody who had a resume to do this stuff. The owner and my ex decided to just... Bill... You know, my ex would bill for the QA work under his name. It was me doing the work. But it wasn't me being recognized. The only recognition I have is... Every year I get a piece of paper saying that I have ownership shares to a company that has no value. Okay. Okay. Yeah. It's... It's operating in the negative, so it's never, you know. Yeah. So, you're in a very different environment to your previous job. Did any of those kinds of things follow you there? No. Actually, I pretty much thrived in that because it was just me interacting with the owner and my ex who... My ex and I had a really great working relationship when I came to that stuff. We were able to talk about everything. If there was a challenge, you know. It was good. I was able to communicate with the owner.",
+      "keywords": [
+        "previous job",
+        "communicate owner",
+        "interacting owner",
+        "owner ex",
+        "working relationship",
+        "saying ownership"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -1.0
+    },
+    {
+      "segment_id": 6,
+      "start_time": 379.35,
+      "end_time": 409.05,
+      "text": "And when the owner would come to be in like, you know, hey, why can't this release happen? I was able to say, hey, you know, this is why it's taking so long. You know, you need to allow them to have time to work through the update, you know. Or he needs to focus on this particular thing, you know, so that he, you know.",
+      "keywords": [
+        "release happen",
+        "release",
+        "hey release",
+        "owner come",
+        "update know",
+        "taking long"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -0.999
+    },
+    {
+      "segment_id": 7,
+      "start_time": 409.05,
+      "end_time": 473.85,
+      "text": "It was basically kind of like a combination of QA and project management, even though I will not take project management credit for it, if that makes sense. You know, just that the skill set of being able to interact and translate between the developer and the stakeholder. That, that was something. Yeah. And I, I thrived in it. I loved it. Yeah. And looking back, would you say you're triggered with more respect when you're doing this role? Yeah. My ex never really fully believed that women should fill less than in the industry. He was really good about giving me credit, even though I, like it, it wasn't officially a job that I can, you know. You could put that you could put on your resume. Right. I mean, I can, I can put it on my resume, but like there's no.",
+      "keywords": [
+        "management credit",
+        "developer stakeholder",
+        "women industry",
+        "project management",
+        "doing role",
+        "stakeholder yeah"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": 0.998
+    },
+    {
+      "segment_id": 8,
+      "start_time": 473.85,
+      "end_time": 482.85,
+      "text": "Yeah. Yeah. Yeah. Do you feel that experience? How much of it was grounded in the technology of the day?",
+      "keywords": [
+        "grounded technology",
+        "experience grounded",
+        "technology day",
+        "feel experience",
+        "grounded",
+        "yeah feel"
+      ],
+      "summary": "Yeah. Yeah. Yeah. Do you feel that experience? How much of it was grounded in the technology of the day?",
+      "sentiment_score": -0.829
+    },
+    {
+      "segment_id": 9,
+      "start_time": 482.85,
+      "end_time": 800.55,
+      "text": "And how much of it would you say was transferable, even to the modern day? What I didn't know at that point in time is that Sigma 6 was so important. Like this was going, as it, this is a 15 year time period. I didn't realize that like I had done my research on, you know, QA techniques and software, you know, like logging notes and Jira and, you know, stuff like that, you know. Like I have that sort of experience, but being told like when I was studying the Sigma 6 stuff to actually look for a software development QA position, because I felt like I would thrive in that. Again, especially if I could work from home. I realized that there's a corporatization of QA that came into play that I never really experienced. So qualifications that I don't deal as really necessary qualifications of somebody knows how to hunt a bug, track it, document it, explain it, you know, test it, retested again, you know. Like everybody that plans their life may plan their life differently, some may use a planner, some may use, you know, post it notes, you know. There are different ways to get to the same end goal. And it's basically pigeonholed everybody into having to do something a certain way that I don't actually think is the best for the industry because it's all based on manufacturing. And software isn't, maybe it's digital manufacturing to some degree if you want to put it that way, but it's not quantifiable in a stack of product. And sigma 6 seems to be more focused on productivity from that perspective than from. Okay, if you let somebody walk away from their computer for 10 minutes to decompress and think through the challenge that they're having and why they can't figure out why this bug is doing what it's doing. And seeing if there's a way that could maybe make it work. And then come back when they have some sort of inspiration, then just like, oh, and you go back and you go and you figure out whether there's another way to get it to work and then you document that and send it back to the developer. You know, I don't think everything has to be translated through a book. If I make sense. Yeah, you can probably define lots of different approaches, holistic approaches. That might be a good definition for my QA as holistic QA. Yeah. I've never even considered that. Yeah, the idea that there's one way of doing something that you do it by numbers and that that's great for consistency. If you want to minimize variables, but. And it maybe works statistically on on mass, but. You know, there's. I think there's a lot of sustainability and there's a lot of variation in one size fits so just fits no one. Yeah. That right here. Yeah. I think one size fits off it's no one that you just said. Yeah, sums up the entirety of this. Yeah. That a lot. I mean, based it based on your lived experience. What signs made it clear to you that the tech world hasn't progressed even in the years that. That you've sort of been in the out of it. Because women still don't have the you know, while there may be some women that have thought. All of the issues that comes with being a woman in any industry. To get where they are and there is more notable women in the industry. And I still feel like. I'm consistently seeing that women aren't paid as well. Women do statistically make less than the industry than men do. Women with all the progress in tolerance and the me to movement and trying to get, you know, no I'm not going to go into that but like the whole progression of maybe. More acknowledgment of women's rights and whatnot. We still have issues that are not addressed. And it's gone from have, have they gone from war being I've, to being more inherent biases. I am not going to name the company or when I worked for them, but it was within the last seven years.",
+      "keywords": [
+        "experienced qualifications",
+        "qualifications somebody",
+        "studying sigma",
+        "qa techniques",
+        "necessary qualifications",
+        "qualifications"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -0.976
+    },
+    {
+      "segment_id": 10,
+      "start_time": 800.55,
+      "end_time": 811.35,
+      "text": "Okay. This was not in QA. I will say that. But this shows. I've seen evidence of this in the IT industry as well.",
+      "keywords": [
+        "qa say",
+        "qa",
+        "evidence industry",
+        "okay qa",
+        "industry",
+        "seen evidence"
+      ],
+      "summary": "Okay. This was not in QA. I will say that. But this shows. I've seen evidence of this in the IT industry as well.",
+      "sentiment_score": 0.991
+    },
+    {
+      "segment_id": 11,
+      "start_time": 811.35,
+      "end_time": 894.6,
+      "text": "When a female goes to HR to report issues. She is not the majority of the time and I'm not going to say all, but even with women in HR. A female that is reporting an issue is not treated with the same respect as a man reporting an issue. There. And I see this all over social media of women talking about it. And it doesn't matter what the industry is. A woman makes a report or a woman works really, really hard and gets the credit taken away from her by somebody else. And in this case it could be. Male or female it's just it's all about the competition somebody has a good idea. You report that somebody stole your ideas or your work or to credit for your work and it just gets shoved under the rug. And this has everything to do with the corporatization of everything in my opinion. Now if you can't have control as a corporation then. And it really just depends on the company. Can you just clarify? Can you maybe not give a real example?",
+      "keywords": [
+        "female reporting",
+        "women hr",
+        "report woman",
+        "hr female",
+        "hr report",
+        "industry woman"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -0.995
+    },
+    {
+      "segment_id": 12,
+      "start_time": 894.6,
+      "end_time": 1438.65,
+      "text": "Just give a made up example of exactly what you're talking about. Let's see. Dolly is has produced a new innovative piece of code that will change the way the users experience the software that a company is developing. Payton. I'm going to use Payton because that's a gender neutral name. Payton sees Sally software and sees the potential of it. And immediately starts criticizing her for what she could have done better in front of higher ups. And then implies to the higher ups that. The only reason Sally developed this was code was because Payton and Sally had a conversation that led to her developing this code. Who knows what's true? Only Payton and Sally. But the higher ups have caused a question. And Payton has socially. Sally's one who's known to the grindstone just doing her job. Payton's maneuvering for advancement. So the higher ups that heard this conversation have had more interactions with Payton and have more trust in Payton. Because they have a better social interaction. Whereas Sally consistently has turned out. Code. Quality code. Quality work. What not. They have no reason to question her ability to write the code. But they have subsequently been. Lead to believe that she couldn't process creative ideas and development in code. So an innovative idea has to come through somebody that they can more socially understand. And then Sally gets tossed under the bus when she goes to HR. To report that Payton has taken credit for her idea. HR is like trying to find out, you know, basically doing the whole Solomon and the, you know, two moms in the baby situation of okay. Well, how do we know who's actually telling the truth? It becomes corporate politics at that point in time. And it's no longer about the code. It's no longer about the ethics. It's just drama. And that happens all the time to get women to keep their mouth shut and just do their work. So people profit off of our desire to not be a part of the drama at some point in time. Okay, thank you for crystallizing what you're talking about by illustrating what you're talking about with a sort of concrete narrative about that. How do you think it came about that workplace culture has failed to keep pace with the very real changes in society around the first in the inclusion? I think it falls directly back to corporate politics. Workplace environment is affected by how corporate politics are. I think we made huge strides forward in the work from home movement during COVID. I think mental health was better now hold on. People that were able to keep their jobs during COVID by working remotely had better mental health than they did when they were working in the office. I want to clarify that because COVID was a really rough time for everybody mentally. But there was a movement to get work back into corporate culture. Recently, at least here where I met in the United States, it's almost impossible for me to even get a call center position remotely. For some reason, I think to some degree the people that took advantage of the work from home culture destroyed it for those who really thrived in it. However, I think companies could have done a much better job of looking at the statistics of those regardless of what industry it was that we're working from home. The work life balance was so much better then. So right now when you ask that question, I'm kind of struck in the dichotomy of those that are still able to work at home and thrive and those who can't because that right now is having a huge impact. Just a couple of sides. Just on that subject, I have my experiences and thoughts that work from home sometimes is not a static thing. Given time, it's dependent on what you've been doing before and even where you're going afterwards, like if you've been working in the office and then you go to work from home, you may see an improvement, but then over time that may degrade. I don't see it as a panacea, even if someone is near a virgin, it's not really arguing your case, but if I could just fix it. So I've had it bad experiences working from home in my very early career where it's led to severe mental health crisis, because it was not I was doing it in the wrong way maybe. I've seen times in my life where it has very much enabled me to function a lot better. So it's okay, here's the solution, just do that and that's the solution. I think some people work really well. I think some people work very well in office, I think some people work really well in home, but I think everyone needs to have. And this was something that was making huge strides and it seems like we've just kind of reversed a little bit at least here, I don't I've only worked in the US, so I can't speak for anywhere else. This isn't me trying to be critical per se, it's more of a just an observation that I saw mental health support within corporations, causing people to have a better work life. And I don't see that right now. I see that starting to be taken away. I don't know about anywhere else, but I think that that supporting the whole person not just the employee makes a huge difference on the quality of work anyone can do regardless of whether they're working in the house or in home. And when we were working in home, there were more social gatherings online to interact. And that's kind of just faded away and I saw that happening during my last year working in a work from home position. I saw it starting to fade away and I'm like that's that's really kind of a shame because when they do these little 15 minute corporate teams meetings and stuff like that and everyone's online, they've got somebody hyping them up and everybody's you know getting positive it helps when you have a mental health crisis line that you can call and not worry about what that's going to cost you. That helps you cope with the intricacies whether it be in housework or in homework. And until we start taking the employees mental and physical and emotional health into play, you're just going to wind up having employees that just find a getting beat down burnout and quit. And it doesn't matter whether your neurodiverse or not, but it does tend to affect neurodiverse people a little more. Do you think there's any danger of the increased interest in supporting employees of the mental health as virgin on this side of intrusive and almost being a means of manipulating people. Okay, I think if it's done the right way and that is. The mental health isn't coming from the company. It's an added benefit so. Well, here I'm trying to explain it because I'm coming at this from an American perspective, okay, so a lot of employees regardless of.",
+      "keywords": [
+        "code quality",
+        "code innovative",
+        "quality code",
+        "sally developed",
+        "ideas development",
+        "developing code"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": 0.938
+    },
+    {
+      "segment_id": 13,
+      "start_time": 1438.65,
+      "end_time": 1805.85,
+      "text": "If you want to have a quality of life where you're able to go get a cup of coffee when you need to decompress. But you have to choose between whether you go get a cup of coffee or you pay. A copay. To go to a therapist whether it's online or in person. That's a problem and that's an issue that people are having all the way up to the middle class. Income level for people in the U.S. because insurance is insanely expensive and if you don't get it through your. If you don't get benefits through the company where your pain or reduced amount, but you're still paying a fee. And that would be your. Not just your copay. You're, um, you have to pay your deductible. You have to pay your premium. So your premium is, you know, every month you pay a certain amount. That means that you're covered. Well, part of that coverage is as you have to pay a certain amount or a deductible of. The total cost that's going to be put out on your health insurance. If you have any health issues, whether you need to go regularly to account the. The therapists just to deal with mental health stuff, whether you have any physical conditions. That deductible your pain very, very quickly. So usually it depends on what the insurance is and what the premium is and what it covers, but that's usually between $48,000 a year. But you have to pay up front or for they fully cut the insurance fully covers. Your stop and then you still have a copay, which means, you know, $10 to $25. If you're having to choose between self care and mental health or physical health, you're never getting to enjoy life outside of work. All you're doing is coping with existing. And that's what the majority of Americans are dealing with. If a company steps in and says, we are covering. The full cost of you being able to call a mental health therapist at no cost to you. Anytime you need to, which is. Honestly, when it comes to hiring and firing and getting training employees and stuff like that, it's cheaper for them to do that and provide that access. Now it does come down to the employer actually choosing to do it for the employee actually choosing to, you know, use the benefits, but it's there. And those are two, you don't choose to use it. They wind up having a more loyal employee. Is it is there any risk of it being used to make someone have more capacity to actually do things that actually they find unsustainable. That have a much. Oh, that's a good question. They get, it just allows the company to increase the burden on that person before they write it. My answer to that is companies can use that. Companies can and I have seen it happen. I cannot discuss this other than to say that I have worked. Where I have had three access to mental therapy through the company that wasn't like it was not. Like the company wasn't going to spy on my stuff from that. But because of the nature of what I was doing, they offered that. And yes, I did burn out. That was a job where mental health therapy was absolutely necessary. And I did burn out. And I did have to say that I couldn't keep working even with that. And it was literally the therapist that was provided for them was one of the people that helped me make the decision to walk away from that position. Is that answer the question? Yeah, that does that make sense. I think you've touched on that and the previous podcast that episode that you recorded is community podcast. So actually just to come back to how we started. Have your personal experiences kind of shape your beliefs about whether women are truly been treated as equals in employment in the economy? I will have to reiterate that I don't think that they are treated equally. I think that some people choose to. And the majority of companies choose not to make that a priority. I think it depends completely on the societal culture that's around. And I would be interested in seeing how it was treated in a different location just to see like a different geographical location to see if that made a difference. But there's too much about society globally, but it's that it's very clear that it's still in a shoe. It doesn't take a whole lot to see that it's not just about corporations and employees and whatnot. It's just how our global community exists. Okay. So I know we've been looking at things with somewhat of a critical eye and but looking at very real experiences. Right.",
+      "keywords": [
+        "health insurance",
+        "coverage pay",
+        "pay copay",
+        "insurance health",
+        "copay therapist",
+        "insurance premium"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -0.997
+    },
+    {
+      "segment_id": 14,
+      "start_time": 1805.85,
+      "end_time": 1895.85,
+      "text": "If we shift a little bit and maybe looking a bit forward and thinking what you wish had been different. How would things have been different in a more ideal situation during your years in IT? I wish I had been more confident. This is more about introspection really to some degree. I wish I'd been more confident to assert myself and say, I do even with the consequences. I wish that I had been more confident to say, I did this and I did this well. You know, you may be trying to switch the direction and trying to redirect it somewhere else, but my work is good. I didn't have the confidence back then. Today, if I were to look at getting back into the IT industry in any aspect of it, I would be interested in seeing how I was accepted based on my lack of academic achievement. And yet, my skills at my abilities. I'd be interested in seeing whether that was more accepted and more appreciated. Okay. So there are things like this. I don't know if this is necessarily better or worse. There is like the SFIA framework, which looks at skills and competencies.",
+      "keywords": [
+        "wish confident",
+        "degree wish",
+        "confident introspection",
+        "confidence",
+        "confidence today",
+        "achievement skills"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": 0.963
+    },
+    {
+      "segment_id": 15,
+      "start_time": 1895.85,
+      "end_time": 1917.0,
+      "text": "I'm very much, it doesn't so much matter how you got them. It's more that you can verbalise than communicate them, that you can demonstrate them. Yeah, but is that something you have to pay for? That's one of my big beefs. I should pay for proof.",
+      "keywords": [
+        "communicate demonstrate",
+        "verbalise communicate",
+        "demonstrate yeah",
+        "demonstrate",
+        "got verbalise",
+        "verbalise"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -0.989
+    },
+    {
+      "segment_id": 16,
+      "start_time": 1917.0,
+      "end_time": 2441.7,
+      "text": "SFIA is a framework for employers to end for employees, potential employees. It's just a framework of saying to do this is a certain role in the IT industry. They divide the IT industry to hundreds and hundreds and dozens of different roles to do this role. These are the things you need to be good at. This is the kind of experience you have to have to do that role at a certain level. Whether it's a simple level, like a junior level or a medium level or a senior level. This is what it's composed of. How do I know? My personal opinion is it can be a bit restrictive because it's like assumes that you've come along a certain career path to get to where you are. That you've been exposed to things in the same way that they're expected. In the other hand, it sounds like, I mean, I'm not saying that there's not like a firewall as such that they won't even let someone get to that interview stage to do that demonstration without the degree. I kind of think a good organization maybe will be looking not just at the qualification, will be looking at what can that person actually do. What can they demonstrate that they can do? Interesting. I have never heard of this before. Do you know who? He's happened to know who develops this and internationally. I'm on the SFA page. I'm really launching to that really. It's just a collaborative community effort. It's an initiative that goes back to like even the British computing societies industry structure model. That was from the 80s. But it's just developed from there. I think the point at the point end of it and not done that well out there. I think it has served lots of people quite well. That's something I'll have to look into. I love that this is. I mean, there's some obviously there's some pay aspects to this. But there's also mostly free. That's interesting. Not for profit organization. Yeah. It's free for most non-commercial use is basically what it's at. You're just saying a minute ago that you'd be interested to see how someone was treated like coming into the workplace. What you think companies should be doing maybe that they aren't at the moment. Beyond perhaps the things that we've already discussed. I think far too often a company may out that they have tolerance and inclusivity in what not. And diversity in their company structure. But I really believe just being one of the minorities in that in a couple different ways. But the interview process is meant to call corporatized individuals. Somebody who has a corporate mentality even if their skill set is, you know, coding or graphic design or whatever. I think there needs to be more understanding of what it means to bring in a diverse individual. And not just talking, I'm talking about somebody that has different ways of viewing things. Different ways of performing than what is traditionally deemed as employable work quality. And while this may vary from both company to company and country to country. There is still very much the aspect of you cannot be an authentic individual if you're walking into an interview. If I walk in their stimming. That's going to create a prejudice immediately. And if the person interviewing me is not familiar with somebody who's neurodivergent. Then they immediately put a negative perspective on what my quality as an employee would be. How do you think someone could be supported in that situation? I think that that requires whether it's smaller big businesses to choose to educate themselves and their employees on the different ways individuals can interact with the world. I hear people all the time saying that they have inclusivity in their company and I'm like, no, you don't. You have a paragraph in your employee handbook that says that we are going to do this, but in practice it doesn't happen. And that requires people choosing to get out and get to know what it's like to interact with somebody who functions things and processes differently when you do. Do you have any advice that you think would be relevant for say young women or women who are neurodivergent or entering the world today? Believe in yourself and your value. As you are, do not conform yourself to be something that you're not because you're wind up paying for it either mentally or physically and the long run. Don't compromise who you are. Okay. What if anything gives you hype even with everything that you've experienced will give you hype about the future? People like you. Honestly, people like you, people like Ken who having had multiple obviously conversations with you. But also even the service that I had with Ken, I see people who want to see other people succeed in life and are perfectly okay with not dictating how success looks. Sorry for calling you out there in a good way. Sorry. Okay. Shall we wrap this up? I know it's but we've talked quite a lot about, I mean it's quite some heavy stuff that we've talked about made. You know, I hope we haven't, I hope the generalised would obviously if people have different views. Those are welcome people can record their own episodes. People will definitely, even if they don't have different views they might, they will definitely have different experiences. And this, in based, just one part too, you know, just the two of us just talking, we're not really trying to prescribe things to other people. You have all turned up views, those equally valid. Just to clarify, I would like to openly state that anyone who wants to make a, you know, a response video to this or just express their own thoughts on it. Tag me or, or let me know that you've done it and I'll go listen to it because I know that not all people have experienced the things I have. Not even other women, you know, because there may be women here that have not experienced the same thing I have. And they have wonderful success stories and I'd love to hear that. But I'm not saying everything that I've said to bash all men. And I think that's really, really important to note because. Some of you may come listen to this and think, oh wow, she's pretty harsh. And I was being harsh at the people that treated me poorly. Not, you know, I tried to emphasize those that did bring good too, so. Thank you for listening to all this. Thank you very much help, Spith. Goodbye from me and goodbye from. Else that. Bye bye. You have been listening to Hacker Public Radio at Hacker Public Radio.org. Today's show was contributed by a HPR listener like yourself. If you ever thought of recording podcast, click on our upload link",
+      "keywords": [
+        "sfia framework",
+        "sfia",
+        "framework employers",
+        "sfa",
+        "career path",
+        "internationally sfa"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -0.585
+    },
+    {
+      "segment_id": 17,
+      "start_time": 2441.7,
+      "end_time": 2461.05,
+      "text": "to find out how easy it is. Hosting for HPR has been kindly provided by an AnHonestHost.com, the Internet Archive, rsync.net, and our mirror network. Unless otherwise stated, today's show is released under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.",
+      "keywords": [
+        "hosting hpr",
+        "easy hosting",
+        "hpr kindly",
+        "hpr",
+        "hosting",
+        "internet archive"
+      ],
+      "summary": "In this segment, the speaker discusses ",
+      "sentiment_score": -0.995
+    }
+  ]
+}

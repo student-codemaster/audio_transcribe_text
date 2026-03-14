@@ -1,0 +1,3 @@
+Episode,Status,Segments,Duration,Avg_Segment_Duration,Segmentation_Score,Keywords_Score,Summaries_Score,Sentiment_Score
+audio17,SUCCESS,12,1327.46,110.62166666666667,1.0,1.0,1.0,0.76
+audio17_1,SUCCESS,12,1327.46,110.62166666666667,1.0,1.0,1.0,0.76

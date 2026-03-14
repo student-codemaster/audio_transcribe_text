@@ -1,0 +1,126 @@
+{
+  "timestamp": "20260312_134030",
+  "total_tests": 2,
+  "quality_summary": {
+    "segmentation": 1.0,
+    "keywords": 1.0,
+    "summaries": 1.0,
+    "sentiment": 0.76
+  },
+  "detailed_results": [
+    {
+      "episode_name": "audio17",
+      "timestamp": "2026-03-12T13:48:01.256834",
+      "status": "SUCCESS",
+      "metrics": {
+        "total_segments": 12,
+        "total_duration": 1327.46,
+        "avg_segment_duration": 110.62166666666667,
+        "sentiment_score": 0.6675130327542623,
+        "total_keywords": 60,
+        "unique_keywords": 49
+      },
+      "quality_assessment": {
+        "segmentation": {
+          "score": 1.0,
+          "total_segments": 12,
+          "avg_duration": 110.6,
+          "duration_std_dev": 12.3,
+          "consistency_cv": 0.111,
+          "short_segments": 0,
+          "long_segments": 0
+        },
+        "keywords": {
+          "score": 1.0,
+          "total_keywords": 60,
+          "unique_keywords": 49,
+          "diversity_ratio": 0.817,
+          "avg_keywords_per_segment": 5.0,
+          "segments_without_keywords": 0
+        },
+        "summaries": {
+          "score": 1.0,
+          "avg_summary_length": 38.6,
+          "avg_compression_ratio": 0.124,
+          "empty_summaries": 0,
+          "coverage_score": 1.0
+        },
+        "sentiment": {
+          "score": 0.76,
+          "mean_sentiment": 0.668,
+          "std_sentiment": 0.704,
+          "positive_segments": 10,
+          "neutral_segments": 0,
+          "negative_segments": 2,
+          "distribution": {
+            "positive_pct": 83.3,
+            "neutral_pct": 0.0,
+            "negative_pct": 16.7
+          }
+        }
+      },
+      "observations": [
+        "✓ Rich keyword diversity detected",
+        "😊 Overall positive sentiment detected",
+        "✓ Good summary coverage"
+      ]
+    },
+    {
+      "episode_name": "audio17_1",
+      "timestamp": "2026-03-12T13:53:24.385286",
+      "status": "SUCCESS",
+      "metrics": {
+        "total_segments": 12,
+        "total_duration": 1327.46,
+        "avg_segment_duration": 110.62166666666667,
+        "sentiment_score": 0.6675130327542623,
+        "total_keywords": 60,
+        "unique_keywords": 49
+      },
+      "quality_assessment": {
+        "segmentation": {
+          "score": 1.0,
+          "total_segments": 12,
+          "avg_duration": 110.6,
+          "duration_std_dev": 12.3,
+          "consistency_cv": 0.111,
+          "short_segments": 0,
+          "long_segments": 0
+        },
+        "keywords": {
+          "score": 1.0,
+          "total_keywords": 60,
+          "unique_keywords": 49,
+          "diversity_ratio": 0.817,
+          "avg_keywords_per_segment": 5.0,
+          "segments_without_keywords": 0
+        },
+        "summaries": {
+          "score": 1.0,
+          "avg_summary_length": 38.6,
+          "avg_compression_ratio": 0.124,
+          "empty_summaries": 0,
+          "coverage_score": 1.0
+        },
+        "sentiment": {
+          "score": 0.76,
+          "mean_sentiment": 0.668,
+          "std_sentiment": 0.704,
+          "positive_segments": 10,
+          "neutral_segments": 0,
+          "negative_segments": 2,
+          "distribution": {
+            "positive_pct": 83.3,
+            "neutral_pct": 0.0,
+            "negative_pct": 16.7
+          }
+        }
+      },
+      "observations": [
+        " Rich keyword diversity detected",
+        " Overall positive sentiment detected",
+        " Good summary coverage"
+      ]
+    }
+  ]
+}
