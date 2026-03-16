@@ -45,7 +45,7 @@ class SegmentSearch:
         
         # Sort by score descending
         results.sort(key=lambda x: x[1], reverse=True)
-        return [seg for seg, _ in results[:top_k]]
+        return results[:top_k]
     
     def semantic_search(self, query, top_k=5, threshold=0.3):
         """Search segments using semantic similarity.
@@ -118,7 +118,7 @@ class SegmentSearch:
             # Get keyword search results
             keyword_results = self.keyword_search(query, top_k=len(self.index.segments))
             keyword_scores = {seg["id"]: 1.0 - (i / max(1, len(keyword_results))) 
-                             for i, seg in enumerate(keyword_results)}
+                             for i, (seg, _) in enumerate(keyword_results)}
             
             # Get semantic search results
             semantic_results = self.semantic_search(query, top_k=len(self.index.segments), threshold=0.1)

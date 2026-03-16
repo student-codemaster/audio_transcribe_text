@@ -1,20 +1,20 @@
-# 🎙️ AI Audio Transcriber v2.0
+#  AI Audio Transcriber v2.0
 
 **Enhanced Podcast Analysis with Comprehensive Visualizations**
 
 ---
 
-## ✨ What's New
+##  What's New
 
-- 🎨 7 Interactive Visualizations
-- 📊 Comprehensive Analytics Dashboard
-- 🧪 Multi-Episode Testing Framework
-- 🎯 Quality Assessment System
+-  7 Interactive Visualizations
+-  Comprehensive Analytics Dashboard
+-  Multi-Episode Testing Framework
+-  Quality Assessment System
 -  Complete Documentation
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 # Install dependencies
@@ -29,17 +29,17 @@ python multi_episode_test.py data/
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 | Feature | Description |
 |---------|-----------|
-| 📄 Transcript | Full episode text + segments |
-| ⏱️ Timeline | Visual segment timeline |
-| 🏷️ Keywords | Word cloud & keyword analysis |
-| 😊 Sentiment | Emotional trend tracking |
-| 📊 Analytics | Statistical analysis & correlations |
-| 🔍 Search | Advanced content search |
-| 🎯 Testing | Batch episode testing |
+|  Transcript | Full episode text + segments |
+|  Timeline | Visual segment timeline |
+|  Keywords | Word cloud & keyword analysis |
+|  Sentiment | Emotional trend tracking |
+|  Analytics | Statistical analysis & correlations |
+|  Search | Advanced content search |
+|  Testing | Batch episode testing |
 
 ---
 

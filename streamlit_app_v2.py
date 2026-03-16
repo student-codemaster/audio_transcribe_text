@@ -40,12 +40,12 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-st.title("🎙️ AI Audio Transcriber & Analyzer")
+st.title(" AI Audio Transcriber & Analyzer")
 st.markdown("---")
 
 # Check if imports were successful
 if not IMPORTS_SUCCESSFUL:
-    st.error("⚠️ Failed to initialize application")
+    st.error(" Failed to initialize application")
     st.error(f"Error: {IMPORT_ERROR}")
     st.info("""
     This usually means:
@@ -70,14 +70,14 @@ if "analysis_complete" not in st.session_state:
 
 # Sidebar
 with st.sidebar:
-    st.header("⚙️ Configuration")
+    st.header(" Configuration")
     st.markdown("Upload your podcast audio file and let AI analyze it!")
     
-    uploaded_file = st.file_uploader("📤 Upload Podcast Audio", type=["wav", "mp3"], 
+    uploaded_file = st.file_uploader(" Upload Podcast Audio", type=["wav", "mp3"], 
                                    help="Supported formats: WAV, MP3")
     
-    if uploaded_file and st.button("🚀 Analyze Podcast", use_container_width=True, type="primary"):
-        with st.spinner("🔄 Processing audio... This may take a few minutes"):
+    if uploaded_file and st.button(" Analyze Podcast", use_container_width=True, type="primary"):
+        with st.spinner("Processing audio... This may take a few minutes"):
             # Save uploaded file temporarily then copy to data folder
             local_path = uploaded_file.name
             with open(local_path, "wb") as f:
@@ -107,11 +107,11 @@ with st.sidebar:
                 st.session_state.analysis_complete = True
                 st.session_state.audio_path = stored_path
                 
-                st.success("✅ Analysis complete! Explore visualizations below.")
+                st.success(" Analysis complete! Explore visualizations below.")
                 
             except Exception as e:
                 error_msg = str(e)
-                st.error(f"❌ Analysis failed: {error_msg}")
+                st.error(f" Analysis failed: {error_msg}")
                 
                 if "timeout" in error_msg.lower() or "read" in error_msg.lower():
                     st.warning("""
@@ -128,9 +128,9 @@ with st.sidebar:
 
 # Main content areas
 if not st.session_state.analysis_complete:
-    st.info("📁 Upload an audio file and click '🚀 Analyze Podcast' to begin")
+    st.info(" Upload an audio file and click ' Analyze Podcast' to begin")
     st.markdown("""
-    ### 🎯 What This App Does:
+    ###  What This App Does:
     1. **Transcription**: Converts audio to text using AI
     2. **Segmentation**: Breaks down content into logical segments
     3. **Analysis**: Extracts keywords, sentiments, and summaries
@@ -144,17 +144,17 @@ else:
     sentiment_score = st.session_state.sentiment_score
     
     # Display overall metrics
-    st.subheader("📊 Episode Overview")
+    st.subheader(" Episode Overview")
     metric_col1, metric_col2, metric_col3, metric_col4 = st.columns(4)
     with metric_col1:
-        st.metric("🎬 Total Segments", len(topics))
+        st.metric(" Total Segments", len(topics))
     with metric_col2:
-        sentiment_icon = "😊" if sentiment_score > 0.5 else "😞" if sentiment_score < -0.5 else "😐"
+        sentiment_icon = "" if sentiment_score > 0.5 else "" if sentiment_score < -0.5 else "😐"
         st.metric(f"{sentiment_icon} Avg Sentiment", f"{sentiment_score:.3f}")
     with metric_col3:
-        st.metric("⏱️ Total Duration", f"{index.segments[-1]['end']:.1f}s")
+        st.metric(" Total Duration", f"{index.segments[-1]['end']:.1f}s")
     with metric_col4:
-        st.metric("📝 Word Count", len(transcript.split()))
+        st.metric(" Word Count", len(transcript.split()))
     
     # provide download options
     if st.session_state.get("audio_path"):
@@ -164,7 +164,7 @@ else:
         with download_col1:
             try:
                 with open(st.session_state.audio_path, "rb") as af:
-                    st.download_button("📥 Download Audio", data=af.read(), file_name=audio_name)
+                    st.download_button(" Download Audio", data=af.read(), file_name=audio_name)
             except Exception:
                 pass
         
@@ -173,17 +173,17 @@ else:
             segment_json = os.path.join("final_outputs", f"{episode_id}.json")
             if os.path.exists(segment_json):
                 with open(segment_json, "rb") as jf:
-                    st.download_button("📥 Download Segments JSON", data=jf.read(), 
+                    st.download_button(" Download Segments JSON", data=jf.read(), 
                                      file_name=f"{episode_id}.json", mime="application/json")
     
     st.divider()
     
     # Sidebar navigation
     with st.sidebar:
-        st.header("📋 Navigation")
+        st.header(" Navigation")
         page = st.radio(
             "Choose a view:",
-            ["📄 Transcript", "🔍 Search", "📊 Analytics", "⏱️ Timeline", "🏷️ Keywords", "😊 Sentiment", "🎯 Multi-Episode Test"],
+            [" Transcript", " Search", " Analytics", " Timeline", " Keywords", " Sentiment", " Multi-Episode Test"],
             index=0,
             help="Select a view to explore your podcast analysis"
         )
@@ -191,14 +191,14 @@ else:
     # ============================================
     # PAGE: Transcript
     # ============================================
-    if page == "📄 Transcript":
-        st.header("📄 Transcripts & Segments")
+    if page == " Transcript":
+        st.header(" Transcripts & Segments")
         
         # Tabs for transcript vs segments
         inner_tab1, inner_tab2 = st.tabs(["Full Transcript", "Segments View"])
         
         with inner_tab1:
-            st.subheader("📖 Complete Episode Transcript")
+            st.subheader(" Complete Episode Transcript")
             if transcript:
                 st.write(transcript)
             else:
@@ -492,7 +492,7 @@ else:
     # ============================================
     # PAGE: Analytics Dashboard
     # ============================================
-    elif page == " Analytics":
+    elif page == "📊 Analytics":
         st.header("Comprehensive Analytics Dashboard")
         
         # Create analytics DataFrame

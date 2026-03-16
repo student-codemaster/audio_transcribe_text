@@ -240,7 +240,7 @@ else:
             with st.spinner("Searching..."):
                 if search_type == "Keyword":
                     results = search_engine.keyword_search(query, top_k=top_k)
-                    search_results = [(seg, 1.0) for seg in results]
+                    search_results = results
                 elif search_type == "Semantic":
                     search_results = search_engine.semantic_search(query, top_k=top_k)
                 else:
